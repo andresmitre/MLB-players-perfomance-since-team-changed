@@ -1,0 +1,26 @@
+﻿index,table_name
+0,Standard
+1,Advanced
+2,Batted Ball
+3,Win Probability
+4,Pitch Type
+7,Pitch Value
+5,Plate Discipline
+6,Value
+8,Dashboard
+9,Statcast Pitch Type
+10,Statcast Velocity
+11,Statcast H-movement
+12,Statcast V-movement
+13,Statcast Pitch Type Value
+14,Statcast Pitch Value100
+15,Statcast Plate Discipline
+16,Pitch Type2
+17,Velocity
+18,H-Movement
+19,V-Movement
+20,Pitch Type Value
+21,Pitch Value100
+22,Pitch Type Plate Discipline
+23,Stats+
+24,Statcast
