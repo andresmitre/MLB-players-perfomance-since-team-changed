@@ -1,0 +1,872 @@
+Name,Team,Type
+Aaron Nola,PHI,Starter
+Carlos Rodon,SFG,Starter
+Justin Verlander,HOU,Starter
+Sandy Alcantara,MIA,Starter
+Kevin Gausman,TOR,Starter
+Shohei Ohtani,LAA,Starter
+Max Fried,ATL,Starter
+Spencer Strider,ATL,Starter
+Shane Bieber,CLE,Starter
+Corbin Burnes,MIL,Starter
+Framber Valdez,HOU,Starter
+Dylan Cease,CHW,Starter
+Max Scherzer,NYM,Starter
+Zac Gallen,ARI,Starter
+Yu Darvish,SDP,Starter
+Logan Webb,SFG,Starter
+Zack Wheeler,PHI,Starter
+Alek Manoah,TOR,Starter
+Tyler Anderson,LAD,Starter
+Jose Quintana,- - -,Starter
+Martin Perez,TEX,Starter
+Clayton Kershaw,LAD,Starter
+Patrick Sandoval,LAA,Starter
+Luis Castillo,- - -,Starter
+Alex Cobb,SFG,Starter
+Blake Snell,SDP,Starter
+Nestor Cortes,NYY,Starter
+Triston McKenzie,CLE,Starter
+Shane McClanahan,TBR,Starter
+Brandon Woodruff,MIL,Starter
+Joe Musgrove,SDP,Starter
+Cristian Javier,HOU,Starter
+Merrill Kelly,ARI,Starter
+Gerrit Cole,NYY,Starter
+Julio Urias,LAD,Starter
+Logan Gilbert,SEA,Starter
+Ross Stripling,TOR,Starter
+Corey Kluber,TBR,Starter
+George Kirby,SEA,Starter
+Jeffrey Springs,TBR,Starter
+Edwin Diaz,NYM,Reliever
+Drew Rasmussen,TBR,Starter
+Kyle Wright,ATL,Starter
+Tarik Skubal,DET,Starter
+Brady Singer,KCR,Starter
+Pablo Lopez,MIA,Starter
+Adam Wainwright,STL,Starter
+Miles Mikolas,STL,Starter
+Jordan Montgomery,- - -,Starter
+Chris Bassitt,NYM,Starter
+Tony Gonsolin,LAD,Starter
+Justin Steele,CHC,Starter
+Kyle Freeland,COL,Starter
+Taijuan Walker,NYM,Starter
+Johnny Cueto,CHW,Starter
+Emmanuel Clase,CLE,Reliever
+Carlos Carrasco,NYM,Starter
+Sonny Gray,MIN,Starter
+Ranger Suarez,PHI,Starter
+Reid Detmers,LAA,Starter
+Jameson Taillon,NYY,Starter
+Noah Syndergaard,- - -,Starter
+Devin Williams,MIL,Reliever
+Jacob deGrom,NYM,Reliever
+Cal Quantrill,CLE,Starter
+Evan Phillips,LAD,Reliever
+Jesus Luzardo,MIA,Starter
+Mitch Keller,PIT,Starter
+Tyler Mahle,- - -,Starter
+Joe Ryan,MIN,Starter
+Luis Garcia,HOU,Starter
+A.J. Minter,ATL,Reliever
+Reynaldo Lopez,CHW,Reliever
+Marcus Stroman,CHC,Starter
+Frankie Montas,- - -,Starter
+Ryan Helsley,STL,Reliever
+Freddy Peralta,MIL,Reliever
+JT Brubaker,PIT,Starter
+Andres Munoz,SEA,Reliever
+Lance Lynn,CHW,Starter
+Zack Greinke,KCR,Starter
+Nick Lodolo,CIN,Starter
+Daniel Bard,COL,Reliever
+Kyle Gibson,PHI,Starter
+Jon Gray,TEX,Starter
+Lucas Giolito,CHW,Starter
+Dean Kremer,BAL,Starter
+Rich Hill,BOS,Starter
+Robbie Ray,SEA,Starter
+Erik Swanson,SEA,Reliever
+John Schreiber,BOS,Reliever
+Trevor Stephan,CLE,Reliever
+Alex Wood,SFG,Starter
+Michael King,NYY,Reliever
+Jose Alvarado,PHI,Reliever
+Hector Neris,HOU,Reliever
+Jose Suarez,LAA,Starter
+Jordan Romano,TOR,Reliever
+Chris Martin,- - -,Reliever
+Caleb Thielbar,MIN,Reliever
+Jimmy Herget,LAA,Reliever
+Luis Garcia,SDP,Reliever
+Liam Hendriks,CHW,Reliever
+Hunter Greene,CIN,Starter
+Raisel Iglesias,- - -,Reliever
+Rafael Montero,HOU,Reliever
+Michael Wacha,BOS,Starter
+Jhoan Duran,MIN,Reliever
+Alex Vesia,LAD,Reliever
+Charlie Morton,ATL,Starter
+Nick Pivetta,BOS,Starter
+David Bednar,PIT,Reliever
+Adrian Sampson,CHC,Starter
+Braxton Garrett,MIA,Starter
+David Peterson,NYM,Starter
+Jordan Lyles,BAL,Starter
+Joe Jimenez,DET,Reliever
+Antonio Senzatela,COL,Starter
+Cole Irvin,OAK,Starter
+Bailey Ober,MIN,Reliever
+German Marquez,COL,Starter
+Collin McHugh,ATL,Reliever
+Garrett Whitlock,BOS,Reliever
+Luis Severino,NYY,Starter
+Bryan Abreu,HOU,Reliever
+Ryan Pressly,HOU,Reliever
+Zach Eflin,PHI,Reliever
+Felix Bautista,BAL,Reliever
+Bryan Baker,BAL,Reliever
+Scott Effross,- - -,Reliever
+Matt Moore,TEX,Reliever
+Giovanny Gallegos,STL,Reliever
+Graham Ashcraft,CIN,Starter
+Aaron Civale,CLE,Starter
+Jakob Junis,SFG,Starter
+Anthony Bass,- - -,Reliever
+Mitch White,- - -,Starter
+Drew Smyly,CHC,Starter
+Jake Odorizzi,- - -,Starter
+Jason Adam,TBR,Reliever
+Brayan Bello,BOS,Reliever
+Pete Fairbanks,TBR,Reliever
+Camilo Doval,SFG,Reliever
+Joe Mantiply,ARI,Reliever
+Dylan Lee,ATL,Reliever
+Sean Manaea,SDP,Starter
+Andrew Heaney,LAD,Reliever
+Clay Holmes,NYY,Reliever
+Jose Berrios,TOR,Starter
+Adam Ottavino,NYM,Reliever
+Kenley Jansen,ATL,Reliever
+Sam Hentges,CLE,Reliever
+Eric Lauer,MIL,Starter
+Jose Urquidy,HOU,Starter
+Matt Manning,DET,Reliever
+Michael Kopech,CHW,Starter
+Michael Lorenzen,LAA,Starter
+Alexis Diaz,CIN,Reliever
+Adrian Houser,MIL,Starter
+Dakota Hudson,STL,Starter
+Taylor Rogers,- - -,Reliever
+Buck Farmer,CIN,Reliever
+Nathan Eovaldi,BOS,Starter
+Hunter Harvey,WSN,Reliever
+Enyel De Los Santos,CLE,Reliever
+Nick Nelson,PHI,Reliever
+Andrew Bellatti,PHI,Reliever
+Seranthony Dominguez,PHI,Reliever
+Austin Voth,- - -,Starter
+James Karinchak,CLE,Reliever
+Cionel Perez,BAL,Reliever
+J.P. Feyereisen,TBR,Reliever
+Walker Buehler,LAD,Reliever
+Wandy Peralta,NYY,Reliever
+Brock Burke,TEX,Starter
+Duane Underwood Jr.,PIT,Reliever
+Brooks Raley,TBR,Reliever
+Ryne Stanek,HOU,Reliever
+Tyler Kinley,COL,Reliever
+Ian Anderson,ATL,Starter
+Roansy Contreras,PIT,Starter
+Chris Paddack,MIN,Reliever
+Austin Gomber,COL,Starter
+Aaron Ashby,MIL,Starter
+Andrew Chafin,DET,Reliever
+Tyler Wells,BAL,Starter
+Zach Jackson,OAK,Reliever
+Spenser Watkins,BAL,Starter
+Zach Plesac,CLE,Starter
+Adam Cimber,TOR,Reliever
+John Brebbia,SFG,Reliever
+Yimi Garcia,TOR,Reliever
+Griffin Jax,MIN,Reliever
+Jovani Moran,MIN,Reliever
+Taylor Hearn,TEX,Starter
+Lucas Luetge,NYY,Reliever
+Craig Kimbrel,LAD,Reliever
+Scott Barlow,KCR,Reliever
+Dane Dunning,TEX,Starter
+Patrick Corbin,WSN,Starter
+Keegan Thompson,CHC,Starter
+Brusdar Graterol,LAD,Reliever
+Jorge Lopez,- - -,Reliever
+MacKenzie Gore,SDP,Reliever
+Lance McCullers Jr.,HOU,Reliever
+Jason Foley,DET,Reliever
+Paul Blackburn,OAK,Starter
+Daniel Hudson,LAD,Reliever
+Nabil Crismatt,SDP,Reliever
+Trevor Rogers,MIA,Starter
+Bryce Elder,ATL,Reliever
+Jose Urena,- - -,Starter
+Josh Hader,- - -,Reliever
+Jesse Chavez,- - -,Reliever
+David Robertson,- - -,Reliever
+David Phelps,TOR,Reliever
+Alex Lange,DET,Reliever
+Brad Boxberger,MIL,Reliever
+Chris Stratton,- - -,Reliever
+Kyle Bradish,BAL,Starter
+Daniel Lynch,KCR,Starter
+Hoby Milner,MIL,Reliever
+Tanner Houck,BOS,Reliever
+Robert Suarez,SDP,Reliever
+Hayden Wesneski,CHC,Reliever
+Penn Murfee,SEA,Reliever
+Brad Keller,KCR,Starter
+Dylan Floro,MIA,Reliever
+Johan Oviedo,- - -,Reliever
+Taylor Clarke,KCR,Reliever
+Connor Overton,CIN,Reliever
+Kendall Graveman,CHW,Reliever
+Dylan Bundy,MIN,Starter
+Chris Flexen,SEA,Starter
+Michael Fulmer,- - -,Reliever
+Dennis Santana,TEX,Reliever
+Domingo German,NYY,Reliever
+Steven Matz,STL,Reliever
+Matt Brash,SEA,Reliever
+Kyle Finnegan,WSN,Reliever
+Ryan Feltner,COL,Starter
+Eduardo Rodriguez,DET,Starter
+Trevor Williams,NYM,Starter
+Lucas Gilbreath,COL,Reliever
+Tylor Megill,NYM,Reliever
+Eli Morgan,CLE,Reliever
+Hunter Brown,HOU,Reliever
+Bailey Falter,PHI,Starter
+Ian Gibaut,- - -,Reliever
+Davis Martin,CHW,Reliever
+Tyler Rogers,SFG,Reliever
+Justin Lawrence,COL,Reliever
+Jake Woodford,STL,Reliever
+Andre Pallante,STL,Starter
+Jalen Beeks,TBR,Reliever
+Connor Brogdon,PHI,Reliever
+Gregory Soto,DET,Reliever
+Kevin Ginkel,ARI,Reliever
+Jose Leclerc,TEX,Reliever
+Amir Garrett,KCR,Reliever
+Drey Jameson,ARI,Reliever
+Joey Wentz,DET,Reliever
+Zach Davies,ARI,Starter
+JP Sears,- - -,Reliever
+Wade Miley,CHC,Reliever
+Chad Kuhl,COL,Starter
+Ryan Brasier,BOS,Reliever
+Adbert Alzolay,CHC,Reliever
+Kutter Crawford,BOS,Reliever
+Joe Kelly,CHW,Reliever
+Yency Almonte,LAD,Reliever
+Kris Bubic,KCR,Starter
+Zach Pop,- - -,Reliever
+Chris Archer,MIN,Starter
+Paul Sewald,SEA,Reliever
+Tim Hill,SDP,Reliever
+Dillon Tate,BAL,Reliever
+Keegan Akin,BAL,Starter
+Madison Bumgarner,ARI,Starter
+Daulton Jefferies,OAK,Reliever
+Luke Weaver,- - -,Reliever
+Clarke Schmidt,NYY,Reliever
+Shawn Armstrong,- - -,Reliever
+Richard Bleier,MIA,Reliever
+Jose Quijada,LAA,Reliever
+Nick Martinez,SDP,Starter
+Caleb Ferguson,LAD,Reliever
+Mike Clevinger,SDP,Starter
+Peter Strzelecki,MIL,Reliever
+Packy Naughton,STL,Reliever
+Will Vest,DET,Reliever
+Seth Martinez,HOU,Reliever
+Ron Marinaccio,NYY,Reliever
+DL Hall,BAL,Reliever
+Vince Velasquez,CHW,Reliever
+Dany Jimenez,OAK,Reliever
+Javier Assad,CHC,Reliever
+Alex Young,- - -,Reliever
+Trevor Megill,MIN,Reliever
+Jonathan Loaisiga,NYY,Reliever
+Jackson Stephens,ATL,Reliever
+Garrett Cleavinger,- - -,Reliever
+Erick Fedde,WSN,Starter
+Ryan Thompson,TBR,Reliever
+Tanner Scott,MIA,Reliever
+Kyle Nelson,ARI,Reliever
+Shelby Miller,SFG,Reliever
+Joely Rodriguez,NYM,Reliever
+Dylan Coleman,KCR,Reliever
+Cody Stashak,MIN,Reliever
+Erasmo Ramirez,WSN,Starter
+Aaron Loup,LAA,Reliever
+Carlos Estevez,COL,Reliever
+Kyle Hendricks,CHC,Starter
+James Kaprielian,OAK,Starter
+Mike Baumann,BAL,Reliever
+Diego Castillo,SEA,Reliever
+Victor Arano,WSN,Reliever
+Alex Faedo,DET,Reliever
+John Means,BAL,Reliever
+Colin Holderman,- - -,Reliever
+Nick Sandlin,CLE,Reliever
+Chad Green,NYY,Reliever
+Jimmy Lambert,CHW,Reliever
+Luis Ortiz,PIT,Reliever
+Ty Blach,COL,Reliever
+Brett Martin,TEX,Reliever
+Joel Kuhnel,CIN,Reliever
+Aaron Bummer,CHW,Reliever
+Ryne Nelson,ARI,Reliever
+Matt Strahm,BOS,Reliever
+Manny Banuelos,- - -,Reliever
+Scott Alexander,SFG,Reliever
+Edward Cabrera,MIA,Reliever
+Pierce Johnson,SDP,Reliever
+Jordan Hicks,STL,Reliever
+Steven Wilson,SDP,Reliever
+Konnor Pilkington,CLE,Reliever
+Ken Waldichuk,OAK,Reliever
+Brad Hand,PHI,Reliever
+A.J. Puk,OAK,Reliever
+Sean Doolittle,WSN,Reliever
+Fernando Cruz,CIN,Reliever
+Dustin May,LAD,Reliever
+Tanner Banks,CHW,Reliever
+Mark Leiter,CHC,Reliever
+Tanner Rainey,WSN,Reliever
+Garrett Richards,TEX,Reliever
+Austin Davis,- - -,Reliever
+Adrian Morejon,SDP,Reliever
+Lou Trivino,- - -,Reliever
+Robert Stephenson,- - -,Reliever
+Tommy Nance,MIA,Reliever
+Archie Bradley,LAA,Reliever
+Zach Thompson,PIT,Starter
+Aaron Sanchez,- - -,Reliever
+Andre Jackson,LAD,Reliever
+Phoenix Sanders,TBR,Reliever
+Cole Ragans,TEX,Reliever
+Wyatt Mills,- - -,Reliever
+Jeff Brigham,MIA,Reliever
+Rony Garcia,DET,Reliever
+Louie Varland,MIN,Reliever
+Jeff Hoffman,CIN,Reliever
+Justin Wilson,CIN,Reliever
+Trevor Richards,TOR,Reliever
+Dinelson Lamet,- - -,Reliever
+Kyle Barraclough,LAA,Reliever
+Seth Lugo,NYM,Reliever
+Yonny Chirinos,TBR,Reliever
+Mychal Givens,- - -,Reliever
+Matt Wisler,TBR,Reliever
+Janson Junk,LAA,Reliever
+Max Kranick,PIT,Reliever
+Tony Santillan,CIN,Reliever
+Matt Foster,CHW,Reliever
+Chris Sale,BOS,Reliever
+Luis Gil,NYY,Reliever
+Jake Cousins,MIL,Reliever
+Joel Payamps,- - -,Reliever
+Denyi Reyes,BAL,Reliever
+Carl Edwards Jr.,WSN,Reliever
+Humberto Castellanos,ARI,Reliever
+Kevin Herget,TBR,Reliever
+Sean Hjelle,SFG,Reliever
+Kyle Crick,CHW,Reliever
+Tyler Glasnow,TBR,Reliever
+Cooper Criswell,TBR,Reliever
+Logan Allen,- - -,Reliever
+Reyes Moronta,- - -,Reliever
+Jake Fishman,MIA,Reliever
+Mark Melancon,ARI,Reliever
+Joan Adon,WSN,Reliever
+Jhon Romero,MIN,Reliever
+Daniel Mengden,KCR,Reliever
+Beau Brieske,DET,Starter
+Ryan Tepera,LAA,Reliever
+Gabe Speier,KCR,Reliever
+Cody Morris,CLE,Reliever
+James Norwood,PHI,Reliever
+Jhonathan Diaz,LAA,Reliever
+Jordan Weems,WSN,Reliever
+Matthew Boyd,SEA,Reliever
+Jose Cisnero,DET,Reliever
+Julian Merryweather,TOR,Reliever
+Parker Mushinski,HOU,Reliever
+Matt Barnes,BOS,Reliever
+Mauricio Llovera,SFG,Reliever
+Shane Baz,TBR,Reliever
+Luis Ortiz,SFG,Reliever
+Yerry De Los Santos,PIT,Reliever
+Casey Mize,DET,Reliever
+Zack Thompson,STL,Reliever
+Steven Brault,CHC,Reliever
+Tayler Scott,SDP,Reliever
+Hyun-Jin Ryu,TOR,Reliever
+David Price,LAD,Reliever
+Trevor May,NYM,Reliever
+Mark Appel,PHI,Reliever
+Josh Winder,MIN,Reliever
+Nick Wittgren,STL,Reliever
+Michael Plassmeyer,PHI,Reliever
+Matt Bush,- - -,Reliever
+Jaime Barria,LAA,Reliever
+Luis Castillo,DET,Reliever
+Juan Minaya,MIN,Reliever
+Daniel Castano,MIA,Reliever
+Austin Brice,PIT,Reliever
+Angel Rondon,STL,Reliever
+Tim Mayza,TOR,Reliever
+Logan Gillaspie,BAL,Reliever
+Phil Bickford,LAD,Reliever
+Marcos Diplan,BAL,Reliever
+Josh Sborz,TEX,Reliever
+Miguel Castro,NYY,Reliever
+Drew Hutchison,DET,Starter
+Rob Zastryzny,- - -,Reliever
+Cade Cavalli,WSN,Reliever
+Chase Anderson,CIN,Reliever
+Bryce Montes de Oca,NYM,Reliever
+Mason Thompson,WSN,Reliever
+Drew Carlton,DET,Reliever
+Ryan Castellani,OAK,Reliever
+Josh Staumont,KCR,Reliever
+Marco Gonzales,SEA,Starter
+Cristofer Ogando,TBR,Reliever
+Anderson Severino,CHW,Reliever
+Rowan Wick,CHC,Reliever
+Jay Jackson,ATL,Reliever
+Touki Toussaint,LAA,Reliever
+Easton McGee,TBR,Reliever
+Cody Sedlock,BAL,Reliever
+Michael Rucker,CHC,Reliever
+Tyler Cyr,- - -,Reliever
+Zack Weiss,LAA,Reliever
+Darren O'Day,ATL,Reliever
+Matt Gage,TOR,Reliever
+Kody Clemens,DET,Reliever
+Miguel Diaz,DET,Reliever
+Yerry Rodriguez,TEX,Reliever
+Ryan Hendrix,CIN,Reliever
+Jake Walsh,STL,Reliever
+Jake Hager,ARI,Reliever
+Michel Baez,SDP,Reliever
+Taylor Widener,ARI,Reliever
+Ryan Weathers,SDP,Reliever
+Kyle Tyler,SDP,Reliever
+Phillips Valdez,BOS,Reliever
+Ken Giles,SEA,Reliever
+Cam Alldred,PIT,Reliever
+Justin Topa,MIL,Reliever
+Domingo Acevedo,OAK,Reliever
+Robert Dugger,- - -,Reliever
+Nick Mears,PIT,Reliever
+Danny Coulombe,MIN,Reliever
+Collin Wiles,OAK,Reliever
+Aneurys Zabala,MIA,Reliever
+Reiss Knehr,SDP,Reliever
+Luke Bard,- - -,Reliever
+Jordan Holloway,MIA,Reliever
+Nick Duron,PHI,Reliever
+Wily Peralta,DET,Reliever
+William Woods,ATL,Reliever
+Freddy Tarnok,ATL,Reliever
+Nick Neidert,MIA,Reliever
+Yolmer Sanchez,BOS,Reliever
+Tucker Barnhart,DET,Reliever
+Bowden Francis,TOR,Reliever
+Tyler Holton,ARI,Reliever
+Sheldon Neuse,OAK,Reliever
+Jermaine Palacios,MIN,Reliever
+Jesus Tinoco,TEX,Reliever
+Anthony Kay,TOR,Reliever
+Darick Hall,PHI,Reliever
+Hunter Strickland,CIN,Reliever
+Ryan Yarbrough,TBR,Reliever
+Hirokazu Sawamura,BOS,Reliever
+Matthew Liberatore,STL,Reliever
+Kenny Rosenberg,LAA,Reliever
+Ronny Henriquez,MIN,Reliever
+Kyle Dowdy,CIN,Reliever
+Cesar Valdez,LAA,Reliever
+Sandy Leon,CLE,Reliever
+Nick Maton,PHI,Reliever
+Darin Ruf,NYM,Reliever
+Luis Gonzalez,SFG,Reliever
+Anthony Banda,- - -,Reliever
+Gavin Hollowell,COL,Reliever
+Randal Grichuk,COL,Reliever
+Anthony Misiewicz,- - -,Reliever
+Blake Treinen,LAD,Reliever
+Stephen Strasburg,WSN,Reliever
+Ildemaro Vargas,WSN,Reliever
+Phil Gosselin,LAA,Reliever
+Jack Mayfield,LAA,Reliever
+Anthony DeSclafani,SFG,Reliever
+Brennan Bernardino,SEA,Reliever
+Jace Peterson,MIL,Reliever
+Pablo Reyes,MIL,Reliever
+Reese McGuire,BOS,Reliever
+Kevin Plawecki,BOS,Reliever
+Ryan Weber,NYY,Reliever
+Shaun Anderson,TOR,Reliever
+Chris Owings,BAL,Reliever
+Alex Claudio,NYM,Reliever
+Luis Cessa,CIN,Reliever
+Jordan Sheffield,COL,Reliever
+Andrew Knizner,STL,Reliever
+Dominic Leone,SFG,Reliever
+Marwin Gonzalez,NYY,Reliever
+Ehire Adrianza,WSN,Reliever
+Andrelton Simmons,CHC,Reliever
+Franmil Reyes,CHC,Reliever
+Conner Menez,CHC,Reliever
+Jose Castillo,SDP,Reliever
+Caleb Kilian,CHC,Reliever
+Jorge Alcala,MIN,Reliever
+Raynel Espinal,CIN,Reliever
+Jack Flaherty,STL,Reliever
+Riley O'Brien,SEA,Reliever
+Mike Brosseau,MIL,Reliever
+Adonis Medina,NYM,Reliever
+Jonathan Hernandez,TEX,Reliever
+Harold Castro,DET,Reliever
+Zack Kelly,BOS,Reliever
+Huascar Brazoban,MIA,Reliever
+Charlie Culberson,TEX,Reliever
+Jeremiah Estrada,CHC,Reliever
+Tyler Thornburg,- - -,Reliever
+Brian Serven,COL,Reliever
+Robert Gsellman,CHC,Reliever
+Nate Fisher,NYM,Reliever
+Ryan McKenna,BAL,Reliever
+Corey Dickerson,STL,Reliever
+Orlando Arcia,ATL,Reliever
+Enoli Paredes,HOU,Reliever
+Cristopher Sanchez,PHI,Reliever
+Kyle Muller,ATL,Reliever
+Cam Vieaux,PIT,Reliever
+Chris Devenski,- - -,Reliever
+Drew Steckenrider,SEA,Reliever
+Austin Adams,SDP,Reliever
+Matt Peacock,- - -,Reliever
+Gregory Santos,SFG,Reliever
+Pedro Baez,HOU,Reliever
+Matt Dermody,CHC,Reliever
+Ashton Goudeau,COL,Reliever
+Danny Young,- - -,Reliever
+Vinny Nittoli,PHI,Reliever
+Andrew Vasquez,- - -,Reliever
+Zac Lowther,BAL,Reliever
+Jake Reed,- - -,Reliever
+Alcides Escobar,WSN,Reliever
+Matt Reynolds,CIN,Reliever
+Foster Griffin,- - -,Reliever
+Willians Astudillo,MIA,Reliever
+Glenn Otto,TEX,Starter
+Nash Walters,LAA,Reliever
+Nicholas Padilla,CHC,Reliever
+Josh Winckowski,BOS,Reliever
+Corey Knebel,PHI,Reliever
+Simeon Woods Richardson,MIN,Reliever
+Victor Caratini,MIL,Reliever
+Michael Kelly,PHI,Reliever
+Pedro Avila,SDP,Reliever
+Roenis Elias,SEA,Reliever
+Tommy Hunter,NYM,Reliever
+Sam Moll,OAK,Reliever
+Andrew Wantz,LAA,Reliever
+Jackie Bradley Jr.,BOS,Reliever
+Damon Jones,PHI,Reliever
+Beau Sulser,- - -,Reliever
+Justin Grimm,OAK,Reliever
+Lucas Sims,CIN,Reliever
+Greg Weissert,NYY,Reliever
+Michael Grove,LAD,Reliever
+Edwin Uceta,ARI,Reliever
+John King,TEX,Reliever
+Eric Stout,- - -,Reliever
+Christian Bethancourt,- - -,Reliever
+Jandel Gustave,MIL,Reliever
+Evan Lee,WSN,Reliever
+Chad Pinder,OAK,Reliever
+Sam Coonrod,PHI,Reliever
+Luke Farrell,- - -,Reliever
+Tommy Kahnle,LAD,Reliever
+Patrick Murphy,WSN,Reliever
+Matt Batten,SDP,Reliever
+Max Castillo,- - -,Reliever
+Jose Cuas,KCR,Reliever
+JT Chargois,TBR,Reliever
+Nicklaus Snyder,TEX,Reliever
+Shane Greene,- - -,Reliever
+Michael Feliz,BOS,Reliever
+Reiver Sanmartin,CIN,Reliever
+Paul Fry,- - -,Reliever
+Trent Thornton,TOR,Reliever
+Max Meyer,MIA,Reliever
+Parker Markel,OAK,Reliever
+JC Mejia,MIL,Reliever
+Noah Davis,COL,Reliever
+Drew Smith,NYM,Reliever
+Alexander Wells,BAL,Reliever
+Yu Chang,TBR,Reliever
+Alex Colome,COL,Reliever
+Josh Harrison,CHW,Reliever
+Bubby Rossman,PHI,Reliever
+Mike Ford,ATL,Reliever
+Justus Sheffield,SEA,Reliever
+Jose Butto,NYM,Reliever
+Michael A. Taylor,KCR,Reliever
+Carson Kelly,ARI,Reliever
+Bryan Garcia,DET,Reliever
+Phil Maton,HOU,Reliever
+Robbie Erlin,LAD,Reliever
+Daniel Duarte,CIN,Reliever
+Ronel Blanco,HOU,Reliever
+Whit Merrifield,TOR,Reliever
+Hunter Dozier,KCR,Reliever
+Chad Smith,COL,Reliever
+Donovan Walton,SFG,Reliever
+Sean Reid-Foley,NYM,Reliever
+Wil Crowe,PIT,Reliever
+Austin Wynns,SFG,Reliever
+Tyler Alexander,DET,Starter
+Derek Law,- - -,Reliever
+Ray Kerr,SDP,Reliever
+Angel Zerpa,KCR,Reliever
+Gerardo Reyes,LAA,Reliever
+Locke St. John,CHC,Reliever
+David McKay,- - -,Reliever
+Dillon Peters,PIT,Reliever
+Chris Ellis,BAL,Reliever
+Paolo Espino,WSN,Starter
+Cole Sands,MIN,Reliever
+Luke Barker,MIL,Reliever
+Stephen Nogosek,NYM,Reliever
+Cole Waites,SFG,Reliever
+Xzavion Curry,CLE,Reliever
+Yoan Lopez,NYM,Reliever
+Blake Taylor,HOU,Reliever
+Brandon Bielak,HOU,Reliever
+Alejo Lopez,CIN,Reliever
+Jarlin Garcia,SFG,Reliever
+Cody Poteet,MIA,Reliever
+Ross Detwiler,CIN,Reliever
+Steven Okert,MIA,Reliever
+James Naile,STL,Reliever
+Corbin Martin,ARI,Reliever
+Ethan Small,MIL,Reliever
+Adam Kolarek,OAK,Reliever
+Spencer Patton,TEX,Reliever
+Bryse Wilson,PIT,Starter
+Emilio Pagan,MIN,Reliever
+Josh Fleming,TBR,Reliever
+Diego Castillo,PIT,Reliever
+Ryan Pepiot,LAD,Reliever
+Andres Machado,WSN,Reliever
+Connor Sadzeck,MIL,Reliever
+Jeremy Beasley,TOR,Reliever
+Dee Strange-Gordon,WSN,Reliever
+Max Schrock,CIN,Reliever
+Devin Smeltzer,MIN,Reliever
+Silvino Bracho,ATL,Reliever
+Yadier Molina,STL,Reliever
+Ian Hamilton,MIN,Reliever
+Nicky Lopez,KCR,Reliever
+Angel De Jesus,DET,Reliever
+Jackson Tetreault,WSN,Reliever
+Yunior Marte,SFG,Reliever
+Brian Moran,LAA,Reliever
+Hanser Alberto,LAD,Reliever
+Reed Garrett,WSN,Reliever
+Oliver Perez,ARI,Reliever
+Rico Garcia,BAL,Reliever
+Ernie Clement,CLE,Reliever
+Matthew Festa,SEA,Reliever
+Luis Torrens,SEA,Reliever
+Trevor Gott,MIL,Reliever
+Albert Pujols,STL,Reliever
+Jose Ruiz,CHW,Reliever
+Jake McGee,- - -,Reliever
+Tanner Tully,CLE,Reliever
+Tyler Clippard,WSN,Reliever
+Domingo Tapia,OAK,Reliever
+Tyler Matzek,ATL,Reliever
+Will Smith,- - -,Reliever
+Collin Snider,KCR,Reliever
+Albert Abreu,- - -,Reliever
+Tyson Miller,TEX,Reliever
+Kaleb Ort,BOS,Reliever
+Nick Vespi,BAL,Reliever
+Chi Chi Gonzalez,- - -,Reliever
+Anthony Bender,MIA,Reliever
+Andrew Kittredge,TBR,Reliever
+Frank German,BOS,Reliever
+Cole Sulser,MIA,Reliever
+Matt Koch,SEA,Reliever
+Anthony Gose,CLE,Reliever
+Luis Perdomo,MIL,Reliever
+Aaron Fletcher,PIT,Reliever
+Jared Koenig,OAK,Reliever
+Francisco Perez,WSN,Reliever
+JoJo Romero,- - -,Reliever
+Austin Warren,LAA,Reliever
+Sam Clay,- - -,Reliever
+Carlos Hernandez,KCR,Reliever
+Jared Solomon,CIN,Reliever
+Huascar Ynoa,ATL,Reliever
+Sam Howard,PIT,Reliever
+Nick Gordon,MIN,Reliever
+Oliver Ortega,LAA,Reliever
+Jerad Eickhoff,PIT,Reliever
+Jesus Cruz,ATL,Reliever
+Aaron Brooks,STL,Reliever
+Brent Suter,MIL,Reliever
+Anibal Sanchez,WSN,Reliever
+Francisco Morales,PHI,Reliever
+Yohan Ramirez,- - -,Reliever
+Garrett Stubbs,PHI,Reliever
+Arodys Vizcaino,KCR,Reliever
+A.J. Ladwig,MIA,Reliever
+Manuel Rodriguez,CHC,Reliever
+Sam Selman,OAK,Reliever
+A.J. Alexy,TEX,Reliever
+Garrett Hill,DET,Reliever
+Kirby Yates,ATL,Reliever
+Kodi Whitley,STL,Reliever
+Wil Myers,SDP,Reliever
+Zack Britton,NYY,Reliever
+Chase De Jong,PIT,Reliever
+Eduard Bazardo,BOS,Reliever
+Ronald Bolanos,KCR,Reliever
+Connor Seabold,BOS,Reliever
+Luis Frias,ARI,Reliever
+Jhoulys Chacin,COL,Reliever
+Elvis Peguero,LAA,Reliever
+Brett Phillips,TBR,Reliever
+Aroldis Chapman,NYY,Reliever
+Kervin Castro,- - -,Reliever
+Erich Uelmen,CHC,Reliever
+Chase Silseth,LAA,Reliever
+Brendon Little,CHC,Reliever
+Tyler Beede,- - -,Reliever
+Norge Ruiz,OAK,Reliever
+Louis Head,- - -,Reliever
+Colin Poche,TBR,Reliever
+Frank Schwindel,CHC,Reliever
+Miguel Yajure,PIT,Reliever
+Adrian Martinez,OAK,Reliever
+Art Warren,CIN,Reliever
+Thomas Hatch,TOR,Reliever
+Calvin Faucher,TBR,Reliever
+Phillip Diehl,CIN,Reliever
+R.J. Alvarez,NYM,Reliever
+Miguel Sanchez,MIL,Reliever
+Zack Littell,SFG,Reliever
+Jake Bird,COL,Reliever
+Jose Marte,LAA,Reliever
+Travis Lakins Sr.,BAL,Reliever
+J.B. Wendelken,ARI,Reliever
+Jacob Barnes,- - -,Reliever
+Jake Brentz,KCR,Reliever
+Justin Bruihl,LAD,Reliever
+Chasen Shreve,NYM,Reliever
+Bennett Sousa,CHW,Reliever
+Kirby Snead,OAK,Reliever
+Steve Cishek,WSN,Reliever
+Yennier Cano,- - -,Reliever
+Brandon Hughes,CHC,Reliever
+Jackson Kowar,KCR,Reliever
+Dusten Knight,TBR,Reliever
+Jimmy Yacabonis,- - -,Reliever
+Jharel Cotton,- - -,Reliever
+Sammy Long,SFG,Reliever
+Josh Rogers,WSN,Reliever
+Keynan Middleton,ARI,Reliever
+Jason Alexander,MIL,Reliever
+Austin Pruitt,OAK,Reliever
+Josh VanMeter,PIT,Reliever
+Ryan Burr,CHW,Reliever
+Tucker Davidson,- - -,Reliever
+Kohei Arihara,TEX,Reliever
+Dallas Keuchel,- - -,Reliever
+Tyler Gilbert,ARI,Reliever
+Tommy Milone,SEA,Reliever
+Jeurys Familia,- - -,Reliever
+Junior Fernandez,- - -,Reliever
+Joe Barlow,TEX,Reliever
+Thomas Szapucki,- - -,Reliever
+Ethan Roberts,CHC,Reliever
+Javy Guerra,- - -,Reliever
+Ralph Garza,TBR,Reliever
+T.J. McFarland,STL,Reliever
+Joey Krehbiel,BAL,Reliever
+Dauri Moreta,CIN,Reliever
+Greg Holland,TEX,Reliever
+Jake Lemoine,OAK,Reliever
+Tommy Henry,ARI,Reliever
+Sean Poppen,ARI,Reliever
+Tyler Danish,BOS,Reliever
+Craig Stammen,SDP,Reliever
+Casey Lawrence,TOR,Reliever
+Jose Alvarez,SFG,Reliever
+Daniel Norris,- - -,Reliever
+Tayler Saucedo,TOR,Reliever
+Andrew Nardi,MIA,Reliever
+Zach Logue,OAK,Reliever
+Mike Minor,CIN,Starter
+Bryan Shaw,CLE,Reliever
+Michael Pineda,DET,Reliever
+Tyler Duffey,MIN,Reliever
+Dereck Rodriguez,MIN,Reliever
+Chris Mazza,TBR,Reliever
+Vladimir Gutierrez,CIN,Reliever
+Cory Abbott,WSN,Reliever
+Darwinzon Hernandez,BOS,Reliever
+Anderson Espinoza,CHC,Reliever
+Jon Heasley,KCR,Starter
+Trevor Kelley,MIL,Reliever
+Anthony Castro,CLE,Reliever
+Bryan Hoeing,MIA,Reliever
+T.J. Zeuch,CIN,Reliever
+Alec Mills,CHC,Reliever
+Josiah Gray,WSN,Starter
+Ryan Borucki,- - -,Reliever
+Drew VerHagen,STL,Reliever
+Hunter Gaddis,CLE,Reliever
+Jake Diekman,- - -,Reliever
+Luis Patino,TBR,Reliever
+Noe Ramirez,ARI,Reliever
+Hansel Robles,BOS,Reliever
+Tommy Romero,- - -,Reliever
+Heath Hembree,- - -,Reliever
+Spencer Howard,TEX,Reliever
+Yusei Kikuchi,TOR,Starter
+Kolby Allard,TEX,Reliever
+Sean Newcomb,- - -,Reliever
+Justin Dunn,CIN,Reliever
+Caleb Smith,ARI,Reliever
+Sergio Romo,- - -,Reliever
+Matt Swarmer,CHC,Reliever
+Bruce Zimmermann,BAL,Reliever
+Kirk McCarty,CLE,Reliever
+Genesis Cabrera,STL,Reliever
+Mike Mayers,LAA,Reliever
+Joe Smith,MIN,Reliever
+Ian Kennedy,ARI,Reliever
+Elieser Hernandez,MIA,Reliever
+Elvin Rodriguez,DET,Reliever
+Adam Oller,OAK,Reliever
