@@ -1,26 +1,26 @@
-﻿index,table_name
-0,Standard
-1,Advanced
-2,Batted Ball
-3,Win Probability
-4,Pitch Type
-7,Pitch Value
-5,Plate Discipline
-6,Value
-8,Dashboard
-9,Statcast Pitch Type
-10,Statcast Velocity
-11,Statcast H-movement
-12,Statcast V-movement
-13,Statcast Pitch Type Value
-14,Statcast Pitch Value100
-15,Statcast Plate Discipline
-16,Pitch Type2
-17,Velocity
-18,H-Movement
-19,V-Movement
-20,Pitch Type Value
-21,Pitch Value100
-22,Pitch Type Plate Discipline
-23,Stats+
-24,Statcast
+﻿Index,TableNameFanGraphs,TableNameModel
+0,Standard,PichertsStandard2022
+1,Advanced,PichertsAdvanced2022
+2,Batted Ball,PichertsBattedBall2022
+3,Win Probability,PichertsWinProbability2022
+4,Pitch Type,PichertsPitchType2022
+5,Plate Discipline,PichertsPitchPlateDiscipline2022
+6,Value,PichertsValue2022
+7,Pitch Value,PichertsPitchValue2022
+8,Dashboard,PichertsDashboard2022
+9,Statcast Pitch Type,PichertsStatcastPitchType2022
+10,Statcast Velocity,PichertsStatcastVelocity2022
+11,Statcast H-movement,PichertsStatcastH-movement2022
+12,Statcast V-movement,PichertsStatcastV-movement2022
+13,Statcast Pitch Type Value,PichertsStatcastPitchTypeValue2022
+14,Statcast Pitch Value100,PichertsStatcastPitchValue1002022
+15,Statcast Plate Discipline,PichertsStatcastPlateDiscipline2022
+16,Pitch Type2,PichertsPitchType22022
+17,Velocity,PichertsVelocity2022
+18,H-Movement,PichertsH-Movement2022
+19,V-Movement,PichertsV-Movement2022
+20,Pitch Type Value,PichertsPitchTypeValue2022
+21,Pitch Value100,PichertsPitchValue1002022
+22,Pitch Type Plate Discipline,PichertsPitchTypePlateDiscipline2022
+23,Stats+,PichertsStats+2022
+24,Statcast,PichertsStatcast2022

@@ -1,0 +1,872 @@
+Name,GS,Team,Type
+Sean Doolittle,0.0,WSN,Reliever
+Charlie Culberson,0.0,TEX,Reliever
+Sandy Leon,0.0,CLE,Reliever
+Marwin Gonzalez,0.0,NYY,Reliever
+Jay Jackson,0.0,ATL,Reliever
+Ehire Adrianza,0.0,WSN,Reliever
+Darin Ruf,0.0,NYM,Reliever
+Randal Grichuk,0.0,COL,Reliever
+Corey Dickerson,0.0,STL,Reliever
+Phil Gosselin,0.0,LAA,Reliever
+Parker Markel,0.0,OAK,Reliever
+Jace Peterson,0.0,MIL,Reliever
+Alex Claudio,0.0,NYM,Reliever
+Ken Giles,0.0,SEA,Reliever
+Orlando Arcia,0.0,ATL,Reliever
+Ildemaro Vargas,0.0,WSN,Reliever
+Austin Adams,0.0,SDP,Reliever
+Kevin Plawecki,0.0,BOS,Reliever
+Franmil Reyes,0.0,CHC,Reliever
+Jack Mayfield,0.0,LAA,Reliever
+Willians Astudillo,0.0,MIA,Reliever
+Reese McGuire,0.0,BOS,Reliever
+Pablo Reyes,0.0,MIL,Reliever
+Ryan Castellani,0.0,OAK,Reliever
+Yonny Chirinos,1.0,TBR,Reliever
+J.P. Feyereisen,2.0,TBR,Reliever
+Vinny Nittoli,0.0,PHI,Reliever
+Jermaine Palacios,0.0,MIN,Reliever
+Conner Menez,0.0,CHC,Reliever
+Kyle Dowdy,0.0,CIN,Reliever
+Brian Serven,0.0,COL,Reliever
+Jorge Alcala,0.0,MIN,Reliever
+Andrew Knizner,0.0,STL,Reliever
+Sheldon Neuse,0.0,OAK,Reliever
+Jordan Sheffield,0.0,COL,Reliever
+Mike Brosseau,0.0,MIL,Reliever
+Darick Hall,0.0,PHI,Reliever
+Michel Baez,0.0,SDP,Reliever
+Riley O'Brien,0.0,SEA,Reliever
+Bowden Francis,0.0,TOR,Reliever
+Luis Castillo,0.0,DET,Reliever
+Aneurys Zabala,0.0,MIA,Reliever
+Nick Duron,0.0,PHI,Reliever
+Yerry Rodriguez,0.0,TEX,Reliever
+Angel Rondon,0.0,STL,Reliever
+Kyle Tyler,0.0,SDP,Reliever
+Max Kranick,0.0,PIT,Reliever
+Easton McGee,0.0,TBR,Reliever
+Freddy Tarnok,0.0,ATL,Reliever
+William Woods,0.0,ATL,Reliever
+Cam Alldred,0.0,PIT,Reliever
+Nick Mears,0.0,PIT,Reliever
+Nash Walters,0.0,LAA,Reliever
+Nate Fisher,0.0,NYM,Reliever
+Tyler Kinley,0.0,COL,Reliever
+Ryan Weber,0.0,NYY,Reliever
+Hunter Brown,2.0,HOU,Reliever
+Yency Almonte,0.0,LAD,Reliever
+Scott Alexander,4.0,SFG,Reliever
+Luis Ortiz,0.0,SFG,Reliever
+Jose Cisnero,0.0,DET,Reliever
+Pete Fairbanks,0.0,TBR,Reliever
+Evan Phillips,0.0,LAD,Reliever
+Ryne Stanek,0.0,HOU,Reliever
+Fernando Cruz,2.0,CIN,Reliever
+Ryan Helsley,0.0,STL,Reliever
+Edwin Diaz,0.0,NYM,Reliever
+Tyler Glasnow,2.0,TBR,Reliever
+Matthew Boyd,0.0,SEA,Reliever
+Emmanuel Clase,0.0,CLE,Reliever
+Matt Gage,0.0,TOR,Reliever
+Cionel Perez,0.0,BAL,Reliever
+Danny Coulombe,0.0,MIN,Reliever
+Ryne Nelson,3.0,ARI,Reliever
+Drey Jameson,4.0,ARI,Reliever
+Anthony Bass,0.0,- - -,Reliever
+Jason Adam,0.0,TBR,Reliever
+Marcos Diplan,0.0,BAL,Reliever
+Angel Zerpa,2.0,KCR,Reliever
+Erik Swanson,1.0,SEA,Reliever
+Mark Appel,0.0,PHI,Reliever
+Justin Verlander,28.0,HOU,Starter
+Daniel Bard,0.0,COL,Reliever
+Blake Treinen,0.0,LAD,Reliever
+Luke Bard,0.0,- - -,Reliever
+Caleb Ferguson,1.0,LAD,Reliever
+Alexis Diaz,0.0,CIN,Reliever
+Jhoan Duran,0.0,MIN,Reliever
+Andre Jackson,0.0,LAD,Reliever
+Devin Williams,0.0,MIL,Reliever
+Bryan Abreu,0.0,HOU,Reliever
+Matt Moore,0.0,TEX,Reliever
+Brock Burke,0.0,TEX,Reliever
+Ron Marinaccio,0.0,NYY,Reliever
+Adam Ottavino,0.0,NYM,Reliever
+A.J. Minter,0.0,ATL,Reliever
+Drew Carlton,0.0,DET,Reliever
+James Karinchak,0.0,CLE,Reliever
+Zack Thompson,1.0,STL,Reliever
+Seth Martinez,0.0,HOU,Reliever
+Jordan Romano,0.0,TOR,Reliever
+Dylan Lee,0.0,ATL,Reliever
+Angel De Jesus,0.0,DET,Reliever
+Tony Gonsolin,24.0,LAD,Starter
+Alex Vesia,0.0,LAD,Reliever
+Julio Urias,31.0,LAD,Starter
+Jesus Tinoco,2.0,TEX,Reliever
+Scott Barlow,0.0,KCR,Reliever
+Hayden Wesneski,4.0,CHC,Reliever
+Kyle Nelson,1.0,ARI,Reliever
+Felix Bautista,0.0,BAL,Reliever
+Dylan Cease,32.0,CHW,Starter
+Jovani Moran,0.0,MIN,Reliever
+John Schreiber,0.0,BOS,Reliever
+Daniel Hudson,0.0,LAD,Reliever
+Jake Woodford,1.0,STL,Reliever
+Alek Manoah,31.0,TOR,Starter
+Christian Bethancourt,0.0,- - -,Reliever
+Michael Kelly,0.0,PHI,Reliever
+Matt Wisler,5.0,TBR,Reliever
+Nick Sandlin,0.0,CLE,Reliever
+Lance McCullers Jr.,8.0,HOU,Reliever
+Robert Suarez,0.0,SDP,Reliever
+Clayton Kershaw,22.0,LAD,Starter
+Cody Morris,5.0,CLE,Reliever
+Sandy Alcantara,32.0,MIA,Starter
+Max Scherzer,23.0,NYM,Starter
+Michael King,0.0,NYY,Reliever
+Ronny Henriquez,0.0,MIN,Reliever
+Sam Hentges,0.0,CLE,Reliever
+Gabe Speier,1.0,KCR,Reliever
+Shohei Ohtani,28.0,LAA,Starter
+Denyi Reyes,1.0,BAL,Reliever
+Aaron Bummer,0.0,CHW,Reliever
+Alex Young,1.0,- - -,Reliever
+Rafael Montero,0.0,HOU,Reliever
+David Robertson,0.0,- - -,Reliever
+Junior Fernandez,0.0,- - -,Reliever
+Tommy Hunter,0.0,NYM,Reliever
+JT Chargois,3.0,TBR,Reliever
+Nestor Cortes,28.0,NYY,Starter
+David Price,0.0,LAD,Reliever
+Miguel Diaz,0.0,DET,Reliever
+Stephen Nogosek,0.0,NYM,Reliever
+Justin Wilson,0.0,CIN,Reliever
+Jeffrey Springs,25.0,TBR,Starter
+Raisel Iglesias,0.0,- - -,Reliever
+Max Fried,30.0,ATL,Starter
+Jimmy Herget,1.0,LAA,Reliever
+Andres Munoz,0.0,SEA,Reliever
+Hunter Harvey,0.0,WSN,Reliever
+Camilo Doval,0.0,SFG,Reliever
+Jorge Lopez,0.0,- - -,Reliever
+Scott Effross,1.0,- - -,Reliever
+Cristian Javier,25.0,HOU,Starter
+Shane McClanahan,28.0,TBR,Starter
+Zac Gallen,31.0,ARI,Starter
+Clay Holmes,0.0,NYY,Reliever
+Tyler Anderson,28.0,LAD,Starter
+Wily Peralta,1.0,DET,Reliever
+Collin McHugh,0.0,ATL,Reliever
+Jaime Barria,1.0,LAA,Reliever
+David Bednar,0.0,PIT,Reliever
+Chase De Jong,0.0,PIT,Reliever
+Spencer Strider,20.0,ATL,Starter
+Lucas Luetge,0.0,NYY,Reliever
+Paul Sewald,0.0,SEA,Reliever
+Brooks Raley,0.0,TBR,Reliever
+Trevor Stephan,0.0,CLE,Reliever
+Michael Feliz,0.0,BOS,Reliever
+Jake Cousins,0.0,MIL,Reliever
+Cooper Criswell,1.0,TBR,Reliever
+Tyler Cyr,0.0,- - -,Reliever
+Wandy Peralta,0.0,NYY,Reliever
+Connor Overton,4.0,CIN,Reliever
+Eduard Bazardo,0.0,BOS,Reliever
+Reynaldo Lopez,1.0,CHW,Reliever
+Carl Edwards Jr.,0.0,WSN,Reliever
+Zach Pop,0.0,- - -,Reliever
+Dylan Coleman,0.0,KCR,Reliever
+Brad Hand,0.0,PHI,Reliever
+Adam Cimber,0.0,TOR,Reliever
+Jalen Beeks,7.0,TBR,Reliever
+Steven Okert,0.0,MIA,Reliever
+Liam Hendriks,0.0,CHW,Reliever
+Framber Valdez,31.0,HOU,Starter
+Zack Wheeler,26.0,PHI,Starter
+Andrew Chafin,0.0,DET,Reliever
+David Phelps,1.0,TOR,Reliever
+Peter Strzelecki,0.0,MIL,Reliever
+Jose Leclerc,0.0,TEX,Reliever
+Drew Rasmussen,28.0,TBR,Starter
+Tommy Kahnle,0.0,LAD,Reliever
+Joe Mantiply,0.0,ARI,Reliever
+Shane Bieber,31.0,CLE,Starter
+Carlos Rodon,31.0,SFG,Starter
+Martin Perez,32.0,TEX,Starter
+Logan Webb,32.0,SFG,Starter
+Patrick Sandoval,27.0,LAA,Starter
+Sam Moll,0.0,OAK,Reliever
+Erasmo Ramirez,2.0,WSN,Reliever
+Mason Thompson,0.0,WSN,Reliever
+Jose Quintana,32.0,- - -,Starter
+Joe Musgrove,30.0,SDP,Starter
+Jhonathan Diaz,3.0,LAA,Reliever
+Corbin Burnes,33.0,MIL,Starter
+Nabil Crismatt,1.0,SDP,Reliever
+Brad Boxberger,0.0,MIL,Reliever
+Triston McKenzie,30.0,CLE,Starter
+Jonathan Hernandez,0.0,TEX,Reliever
+Ryan Pressly,0.0,HOU,Reliever
+Penn Murfee,1.0,SEA,Reliever
+Luis Castillo,25.0,- - -,Starter
+Enoli Paredes,0.0,HOU,Reliever
+Kyle Barraclough,0.0,LAA,Reliever
+Chad Green,0.0,NYY,Reliever
+Tyler Holton,0.0,ARI,Reliever
+Seranthony Dominguez,0.0,PHI,Reliever
+Zach Jackson,0.0,OAK,Reliever
+Steven Brault,0.0,CHC,Reliever
+Edward Cabrera,14.0,MIA,Starter
+Ross Stripling,24.0,TOR,Starter
+Dylan Floro,0.0,MIA,Reliever
+Joey Wentz,7.0,DET,Reliever
+Enyel De Los Santos,0.0,CLE,Reliever
+Giovanny Gallegos,0.0,STL,Reliever
+Brandon Woodruff,27.0,MIL,Starter
+Chris Martin,0.0,- - -,Reliever
+Dillon Tate,0.0,BAL,Reliever
+Tanner Banks,0.0,CHW,Reliever
+Steven Wilson,1.0,SDP,Reliever
+Phoenix Sanders,0.0,TBR,Reliever
+Jacob deGrom,11.0,NYM,Reliever
+Sonny Gray,24.0,MIN,Starter
+Huascar Brazoban,0.0,MIA,Reliever
+Andrew Heaney,14.0,LAD,Starter
+Yu Darvish,30.0,SDP,Starter
+Yimi Garcia,0.0,TOR,Reliever
+Adrian Sampson,19.0,CHC,Starter
+Javier Assad,8.0,CHC,Reliever
+Logan Gillaspie,0.0,BAL,Reliever
+A.J. Puk,0.0,OAK,Reliever
+Clarke Schmidt,3.0,NYY,Reliever
+Brandon Hughes,0.0,CHC,Reliever
+Tim Mayza,0.0,TOR,Reliever
+Tanner Houck,4.0,BOS,Reliever
+Andrew Kittredge,0.0,TBR,Reliever
+Wade Miley,8.0,CHC,Reliever
+Bryce Elder,9.0,ATL,Reliever
+Andre Pallante,10.0,STL,Reliever
+Luis Severino,19.0,NYY,Starter
+Justin Steele,24.0,CHC,Starter
+Chris Sale,2.0,BOS,Reliever
+Jeremiah Estrada,0.0,CHC,Reliever
+Cole Waites,0.0,SFG,Reliever
+John Brebbia,11.0,SFG,Reliever
+Jose Alvarado,0.0,PHI,Reliever
+Kendall Graveman,0.0,CHW,Reliever
+Kyle Wright,30.0,ATL,Starter
+Keegan Akin,1.0,BAL,Reliever
+Logan Gilbert,32.0,SEA,Starter
+Trevor Williams,9.0,NYM,Reliever
+Bailey Ober,11.0,MIN,Reliever
+Johan Oviedo,8.0,- - -,Reliever
+Andrew Wantz,1.0,LAA,Reliever
+Brady Singer,24.0,KCR,Starter
+Dean Kremer,21.0,BAL,Starter
+Joel Payamps,0.0,- - -,Reliever
+Aaron Nola,32.0,PHI,Starter
+Jimmy Lambert,2.0,CHW,Reliever
+Albert Abreu,0.0,- - -,Reliever
+Anthony Bender,0.0,MIA,Reliever
+Brusdar Graterol,1.0,LAD,Reliever
+Connor Brogdon,0.0,PHI,Reliever
+Gregory Soto,0.0,DET,Reliever
+Miles Mikolas,32.0,STL,Starter
+Manuel Rodriguez,0.0,CHC,Reliever
+Tanner Rainey,0.0,WSN,Reliever
+Andrew Bellatti,1.0,PHI,Reliever
+Tyler Thornburg,0.0,- - -,Reliever
+Jesus Luzardo,18.0,MIA,Starter
+Michael Wacha,23.0,BOS,Starter
+Domingo Acevedo,0.0,OAK,Reliever
+Drew Smith,0.0,NYM,Reliever
+Andres Machado,0.0,WSN,Reliever
+Ralph Garza,0.0,TBR,Reliever
+Kevin Gausman,31.0,TOR,Starter
+Johnny Cueto,24.0,CHW,Starter
+Griffin Jax,0.0,MIN,Reliever
+Merrill Kelly,33.0,ARI,Starter
+Blake Snell,24.0,SDP,Starter
+John Means,2.0,BAL,Reliever
+Adbert Alzolay,0.0,CHC,Reliever
+Kenley Jansen,0.0,ATL,Reliever
+Eli Morgan,1.0,CLE,Reliever
+Jeff Brigham,0.0,MIA,Reliever
+Zack Weiss,0.0,LAA,Reliever
+Kevin Ginkel,0.0,ARI,Reliever
+Mychal Givens,1.0,- - -,Reliever
+Jordan Holloway,0.0,MIA,Reliever
+Cal Quantrill,32.0,CLE,Starter
+George Kirby,25.0,SEA,Starter
+Michael Fulmer,0.0,- - -,Reliever
+Luis Garcia,0.0,SDP,Reliever
+Dany Jimenez,0.0,OAK,Reliever
+Chris Bassitt,30.0,NYM,Starter
+Corey Knebel,0.0,PHI,Reliever
+Matt Manning,12.0,DET,Starter
+Garrett Whitlock,9.0,BOS,Reliever
+Ryan Pepiot,7.0,LAD,Reliever
+Matt Bush,6.0,- - -,Reliever
+Drew Smyly,22.0,CHC,Starter
+Nick Martinez,10.0,SDP,Reliever
+Carlos Estevez,0.0,COL,Reliever
+Jordan Montgomery,32.0,- - -,Starter
+Bryan Baker,2.0,BAL,Reliever
+Caleb Thielbar,0.0,MIN,Reliever
+Taijuan Walker,29.0,NYM,Starter
+Joe Jimenez,0.0,DET,Reliever
+Gerrit Cole,33.0,NYY,Starter
+Tyler Matzek,0.0,ATL,Reliever
+Marcus Stroman,25.0,CHC,Starter
+Kyle Finnegan,0.0,WSN,Reliever
+Tarik Skubal,21.0,DET,Starter
+Roenis Elias,0.0,SEA,Reliever
+Dereck Rodriguez,0.0,MIN,Reliever
+Bryan Garcia,4.0,DET,Reliever
+Michael Kopech,25.0,CHW,Starter
+Joe Ryan,27.0,MIN,Starter
+Richard Bleier,1.0,MIA,Reliever
+Jharel Cotton,0.0,- - -,Reliever
+Tim Hill,0.0,SDP,Reliever
+Tyler Rogers,0.0,SFG,Reliever
+Freddy Peralta,17.0,MIL,Starter
+Braxton Garrett,17.0,MIA,Starter
+Jose Cuas,0.0,KCR,Reliever
+Nick Neidert,1.0,MIA,Reliever
+Jhon Romero,0.0,MIN,Reliever
+Simeon Woods Richardson,1.0,MIN,Reliever
+Seth Lugo,0.0,NYM,Reliever
+Domingo German,14.0,NYY,Starter
+Ryan Tepera,0.0,LAA,Reliever
+Sammy Long,6.0,SFG,Reliever
+Beau Sulser,0.0,- - -,Reliever
+Taylor Widener,0.0,ARI,Reliever
+Diego Castillo,0.0,SEA,Reliever
+Brandon Bielak,0.0,HOU,Reliever
+Ranger Suarez,29.0,PHI,Starter
+Nick Lodolo,19.0,CIN,Starter
+Zack Greinke,26.0,KCR,Starter
+Michael Plassmeyer,0.0,PHI,Reliever
+Parker Mushinski,0.0,HOU,Reliever
+Eric Lauer,29.0,MIL,Starter
+Jackson Stephens,1.0,ATL,Reliever
+Alex Lange,0.0,DET,Reliever
+Oliver Ortega,0.0,LAA,Reliever
+Adam Wainwright,32.0,STL,Starter
+Devin Smeltzer,12.0,MIN,Starter
+Robbie Ray,32.0,SEA,Starter
+Luis Garcia,28.0,HOU,Starter
+Hector Neris,0.0,HOU,Reliever
+Chris Flexen,22.0,SEA,Starter
+Alex Cobb,28.0,SFG,Starter
+Hirokazu Sawamura,0.0,BOS,Reliever
+Jarlin Garcia,0.0,SFG,Reliever
+Pablo Lopez,32.0,MIA,Starter
+Craig Kimbrel,0.0,LAD,Reliever
+Keegan Thompson,17.0,CHC,Starter
+Hoby Milner,0.0,MIL,Reliever
+Jesse Chavez,1.0,- - -,Reliever
+Reid Detmers,25.0,LAA,Starter
+Brent Suter,0.0,MIL,Reliever
+Roansy Contreras,18.0,PIT,Starter
+Ryan Thompson,0.0,TBR,Reliever
+Luis Perdomo,0.0,MIL,Reliever
+Justin Bruihl,0.0,LAD,Reliever
+Louie Varland,5.0,MIN,Reliever
+Colin Holderman,0.0,- - -,Reliever
+Jeff Hoffman,1.0,CIN,Reliever
+Matt Strahm,0.0,BOS,Reliever
+Buck Farmer,0.0,CIN,Reliever
+David Peterson,19.0,NYM,Starter
+Aaron Loup,0.0,LAA,Reliever
+Phil Maton,0.0,HOU,Reliever
+Kody Clemens,0.0,DET,Reliever
+Joe Barlow,0.0,TEX,Reliever
+JP Sears,11.0,- - -,Reliever
+Bailey Falter,16.0,PHI,Starter
+Justus Sheffield,1.0,SEA,Reliever
+Cody Poteet,2.0,MIA,Reliever
+Jandel Gustave,0.0,MIL,Reliever
+Brennan Bernardino,0.0,SEA,Reliever
+Cody Stashak,0.0,MIN,Reliever
+Spencer Patton,0.0,TEX,Reliever
+Nathan Eovaldi,20.0,BOS,Starter
+Jason Foley,0.0,DET,Reliever
+Konnor Pilkington,11.0,CLE,Reliever
+Joey Krehbiel,0.0,BAL,Reliever
+Mitch Keller,29.0,PIT,Starter
+Jameson Taillon,32.0,NYY,Starter
+Garrett Cleavinger,0.0,- - -,Reliever
+Blake Taylor,0.0,HOU,Reliever
+Noah Syndergaard,24.0,- - -,Starter
+Jose Urquidy,28.0,HOU,Starter
+Zack Kelly,0.0,BOS,Reliever
+Michael Rucker,0.0,CHC,Reliever
+Reiss Knehr,1.0,SDP,Reliever
+Jon Gray,24.0,TEX,Starter
+Jose Suarez,20.0,LAA,Starter
+Will Smith,0.0,- - -,Reliever
+Carlos Carrasco,29.0,NYM,Starter
+Cole Irvin,30.0,OAK,Starter
+Jose Quijada,0.0,LAA,Reliever
+Colin Poche,0.0,TBR,Reliever
+Mark Leiter,4.0,CHC,Reliever
+Lance Lynn,21.0,CHW,Starter
+Will Vest,2.0,DET,Reliever
+Dominic Leone,0.0,SFG,Reliever
+Walker Buehler,12.0,LAD,Starter
+Kyle Crick,0.0,CHW,Reliever
+Garrett Hill,8.0,DET,Reliever
+Chris Paddack,5.0,MIN,Reliever
+John King,0.0,TEX,Reliever
+Miguel Castro,0.0,NYY,Reliever
+Daniel Castano,7.0,MIA,Reliever
+Taylor Clarke,0.0,KCR,Reliever
+Zach Eflin,13.0,PHI,Starter
+Austin Brice,0.0,PIT,Reliever
+Miguel Sanchez,0.0,MIL,Reliever
+Frankie Montas,27.0,- - -,Starter
+Eduardo Rodriguez,17.0,DET,Starter
+Zach Davies,27.0,ARI,Starter
+Hanser Alberto,0.0,LAD,Reliever
+Jake Fishman,0.0,MIA,Reliever
+Nick Vespi,0.0,BAL,Reliever
+Trent Thornton,0.0,TOR,Reliever
+Justin Grimm,0.0,OAK,Reliever
+Caleb Smith,1.0,ARI,Reliever
+Derek Law,0.0,- - -,Reliever
+Jonathan Loaisiga,0.0,NYY,Reliever
+Marco Gonzales,32.0,SEA,Starter
+Trevor Gott,0.0,MIL,Reliever
+Brett Martin,1.0,TEX,Reliever
+Cristofer Ogando,0.0,TBR,Reliever
+Evan Lee,1.0,WSN,Reliever
+Darren O'Day,0.0,ATL,Reliever
+Matthew Festa,0.0,SEA,Reliever
+Lucas Gilbreath,0.0,COL,Reliever
+Beau Brieske,15.0,DET,Starter
+Steve Cishek,0.0,WSN,Reliever
+Kenny Rosenberg,1.0,LAA,Reliever
+Rowan Wick,0.0,CHC,Reliever
+Austin Pruitt,1.0,OAK,Reliever
+James Kaprielian,26.0,OAK,Starter
+Adrian Morejon,0.0,SDP,Reliever
+Michael Lorenzen,18.0,LAA,Starter
+Jack Flaherty,8.0,STL,Reliever
+Tyler Wells,23.0,BAL,Starter
+Danny Young,0.0,- - -,Reliever
+Chris Stratton,1.0,- - -,Reliever
+Rich Hill,26.0,BOS,Starter
+Anibal Sanchez,14.0,WSN,Starter
+Paul Blackburn,21.0,OAK,Starter
+Reyes Moronta,0.0,- - -,Reliever
+Zach Plesac,24.0,CLE,Starter
+Tanner Scott,0.0,MIA,Reliever
+Matt Barnes,0.0,BOS,Reliever
+Tommy Nance,2.0,MIA,Reliever
+Mike Clevinger,22.0,SDP,Starter
+Corey Kluber,31.0,TBR,Starter
+Austin Voth,17.0,- - -,Starter
+Charlie Morton,31.0,ATL,Starter
+Anthony Misiewicz,0.0,- - -,Reliever
+Shawn Armstrong,3.0,- - -,Reliever
+Wil Crowe,1.0,PIT,Reliever
+Manny Banuelos,0.0,- - -,Reliever
+Duane Underwood Jr.,1.0,PIT,Reliever
+Sean Poppen,0.0,ARI,Reliever
+Matt Foster,0.0,CHW,Reliever
+Tyler Mahle,23.0,- - -,Starter
+Jake Odorizzi,22.0,- - -,Starter
+Phillips Valdez,0.0,BOS,Reliever
+Mauricio Llovera,1.0,SFG,Reliever
+Rony Garcia,8.0,DET,Reliever
+Ronald Bolanos,0.0,KCR,Reliever
+Jakob Junis,17.0,SFG,Starter
+Jordan Lyles,32.0,BAL,Starter
+Craig Stammen,1.0,SDP,Reliever
+Emilio Pagan,0.0,MIN,Reliever
+Hunter Greene,24.0,CIN,Starter
+Matt Brash,5.0,SEA,Reliever
+Ross Detwiler,0.0,CIN,Reliever
+Aaron Ashby,19.0,MIL,Starter
+Dakota Hudson,26.0,STL,Starter
+Aroldis Chapman,0.0,NYY,Reliever
+Dane Dunning,29.0,TEX,Starter
+Joely Rodriguez,0.0,NYM,Reliever
+Harold Castro,0.0,DET,Reliever
+Luis Torrens,0.0,SEA,Reliever
+Gerardo Reyes,0.0,LAA,Reliever
+Pedro Avila,0.0,SDP,Reliever
+Dustin May,6.0,LAD,Reliever
+Matt Batten,0.0,SDP,Reliever
+Anthony Kay,0.0,TOR,Reliever
+MacKenzie Gore,13.0,SDP,Starter
+Ryan Yarbrough,9.0,TBR,Reliever
+Rico Garcia,0.0,BAL,Reliever
+Luis Ortiz,4.0,PIT,Reliever
+Victor Arano,0.0,WSN,Reliever
+Ian Gibaut,0.0,- - -,Reliever
+Lou Trivino,0.0,- - -,Reliever
+Drew Hutchison,18.0,DET,Starter
+Kyle Freeland,31.0,COL,Starter
+Kirk McCarty,2.0,CLE,Reliever
+Chris Archer,25.0,MIN,Starter
+Nick Pivetta,33.0,BOS,Starter
+Luis Cessa,10.0,CIN,Reliever
+Dillon Peters,4.0,PIT,Reliever
+Yohan Ramirez,0.0,- - -,Reliever
+Adam Kolarek,0.0,OAK,Reliever
+Jose Ruiz,0.0,CHW,Reliever
+Michael Grove,6.0,LAD,Reliever
+Wyatt Mills,0.0,- - -,Reliever
+Joe Smith,0.0,MIN,Reliever
+Touki Toussaint,2.0,LAA,Reliever
+Genesis Cabrera,0.0,STL,Reliever
+Glenn Otto,27.0,TEX,Starter
+Collin Wiles,0.0,OAK,Reliever
+Mark Melancon,0.0,ARI,Reliever
+Erich Uelmen,0.0,CHC,Reliever
+JT Brubaker,28.0,PIT,Starter
+Robert Gsellman,0.0,CHC,Reliever
+Spenser Watkins,20.0,BAL,Starter
+Josh Winder,11.0,MIN,Reliever
+Brayan Bello,11.0,BOS,Reliever
+Anthony Gose,0.0,CLE,Reliever
+Mike Baumann,4.0,BAL,Reliever
+Phil Bickford,0.0,LAD,Reliever
+Adrian Houser,21.0,MIL,Starter
+Taylor Rogers,0.0,- - -,Reliever
+Vince Velasquez,9.0,CHW,Reliever
+Packy Naughton,3.0,STL,Reliever
+Jeremy Beasley,0.0,TOR,Reliever
+Trevor Megill,0.0,MIN,Reliever
+Kyle Hendricks,16.0,CHC,Starter
+Tyler Alexander,17.0,DET,Starter
+Archie Bradley,0.0,LAA,Reliever
+Davis Martin,9.0,CHW,Reliever
+Corbin Martin,2.0,ARI,Reliever
+Jordan Hicks,8.0,STL,Reliever
+Paolo Espino,19.0,WSN,Starter
+Nick Nelson,2.0,PHI,Reliever
+Madison Bumgarner,30.0,ARI,Starter
+Dylan Bundy,29.0,MIN,Starter
+Graham Ashcraft,19.0,CIN,Starter
+Kyle Bradish,23.0,BAL,Starter
+Lucas Giolito,30.0,CHW,Starter
+Hunter Strickland,0.0,CIN,Reliever
+Tyler Duffey,0.0,MIN,Reliever
+Jake Bird,0.0,COL,Reliever
+Alexander Wells,0.0,BAL,Reliever
+Yerry De Los Santos,0.0,PIT,Reliever
+Gregory Santos,0.0,SFG,Reliever
+Sam Selman,0.0,OAK,Reliever
+Justin Topa,0.0,MIL,Reliever
+Aaron Civale,20.0,CLE,Starter
+Ken Waldichuk,7.0,OAK,Reliever
+Cole Ragans,9.0,TEX,Reliever
+Sean Manaea,28.0,SDP,Starter
+JoJo Romero,0.0,- - -,Reliever
+Amir Garrett,0.0,KCR,Reliever
+Jake Diekman,0.0,- - -,Reliever
+Ian Anderson,22.0,ATL,Starter
+Shane Baz,6.0,TBR,Reliever
+Javy Guerra,0.0,- - -,Reliever
+James Naile,0.0,STL,Reliever
+German Marquez,31.0,COL,Starter
+Jose Urena,17.0,- - -,Starter
+Pierce Johnson,0.0,SDP,Reliever
+Josiah Gray,28.0,WSN,Starter
+Matt Swarmer,5.0,CHC,Reliever
+Trevor May,0.0,NYM,Reliever
+Kyle Gibson,31.0,PHI,Starter
+Antonio Senzatela,19.0,COL,Starter
+Zack Littell,0.0,SFG,Reliever
+Brad Keller,22.0,KCR,Starter
+Alex Wood,26.0,SFG,Starter
+Daniel Lynch,27.0,KCR,Starter
+Josh Rogers,3.0,WSN,Reliever
+Taylor Hearn,13.0,TEX,Starter
+Tyler Danish,0.0,BOS,Reliever
+Tylor Megill,9.0,NYM,Reliever
+Tyler Beede,5.0,- - -,Reliever
+Jackson Tetreault,4.0,WSN,Reliever
+Kirby Yates,0.0,ATL,Reliever
+Daniel Mengden,1.0,KCR,Reliever
+Zach Thompson,22.0,PIT,Starter
+Yusei Kikuchi,20.0,TOR,Starter
+Daniel Norris,3.0,- - -,Reliever
+Dennis Santana,1.0,TEX,Reliever
+Jordan Weems,0.0,WSN,Reliever
+Josh Hader,0.0,- - -,Reliever
+Noe Ramirez,0.0,ARI,Reliever
+Jose Berrios,32.0,TOR,Starter
+Tyler Gilbert,7.0,ARI,Reliever
+Cory Abbott,9.0,WSN,Reliever
+Steven Matz,10.0,STL,Reliever
+Garrett Richards,2.0,TEX,Reliever
+J.B. Wendelken,0.0,ARI,Reliever
+Jon Heasley,21.0,KCR,Starter
+Jose Alvarez,0.0,SFG,Reliever
+Cole Sulser,0.0,MIA,Reliever
+Keynan Middleton,0.0,ARI,Reliever
+Trevor Richards,4.0,TOR,Reliever
+Tommy Henry,9.0,ARI,Reliever
+Ian Kennedy,0.0,ARI,Reliever
+Casey Mize,2.0,DET,Reliever
+Tommy Milone,0.0,SEA,Reliever
+Luke Farrell,2.0,- - -,Reliever
+Anderson Espinoza,0.0,CHC,Reliever
+Jason Alexander,11.0,MIL,Reliever
+Bryan Shaw,2.0,CLE,Reliever
+Ryan Hendrix,0.0,CIN,Reliever
+Sean Reid-Foley,0.0,NYM,Reliever
+Matt Peacock,0.0,- - -,Reliever
+Dauri Moreta,1.0,CIN,Reliever
+Nicholas Padilla,0.0,CHC,Reliever
+Robert Stephenson,0.0,- - -,Reliever
+Yunior Marte,0.0,SFG,Reliever
+Mitch White,18.0,- - -,Starter
+Trevor Rogers,23.0,MIA,Starter
+Kutter Crawford,12.0,BOS,Starter
+Calvin Faucher,0.0,TBR,Reliever
+Tony Santillan,0.0,CIN,Reliever
+Bryse Wilson,20.0,PIT,Starter
+Alex Faedo,12.0,DET,Starter
+Austin Gomber,17.0,COL,Starter
+Greg Weissert,0.0,NYY,Reliever
+Kris Bubic,27.0,KCR,Starter
+Juan Minaya,0.0,MIN,Reliever
+Cristopher Sanchez,3.0,PHI,Reliever
+Austin Warren,0.0,LAA,Reliever
+Jacob Barnes,0.0,- - -,Reliever
+Eric Stout,0.0,- - -,Reliever
+Drew Steckenrider,0.0,SEA,Reliever
+Hyun-Jin Ryu,6.0,TOR,Reliever
+Humberto Castellanos,9.0,ARI,Reliever
+Luis Gonzalez,0.0,SFG,Reliever
+Mike Mayers,3.0,LAA,Reliever
+Kodi Whitley,0.0,STL,Reliever
+Ryan Borucki,0.0,- - -,Reliever
+Justin Lawrence,0.0,COL,Reliever
+Chad Kuhl,27.0,COL,Starter
+Daulton Jefferies,8.0,OAK,Reliever
+Jared Koenig,5.0,OAK,Reliever
+Dusten Knight,0.0,TBR,Reliever
+Yoan Lopez,0.0,NYM,Reliever
+Alex Colome,0.0,COL,Reliever
+Sean Hjelle,0.0,SFG,Reliever
+Ryan Brasier,0.0,BOS,Reliever
+Xzavion Curry,2.0,CLE,Reliever
+Michael Pineda,11.0,DET,Reliever
+Austin Davis,3.0,- - -,Reliever
+Erick Fedde,27.0,WSN,Starter
+Edwin Uceta,0.0,ARI,Reliever
+Ryan Feltner,19.0,COL,Starter
+Hansel Robles,0.0,BOS,Reliever
+Kirby Snead,0.0,OAK,Reliever
+Chi Chi Gonzalez,5.0,- - -,Reliever
+Cole Sands,3.0,MIN,Reliever
+Logan Allen,0.0,- - -,Reliever
+Josh Winckowski,14.0,BOS,Starter
+Ty Blach,1.0,COL,Reliever
+Nick Wittgren,0.0,STL,Reliever
+DL Hall,1.0,BAL,Reliever
+Max Castillo,6.0,- - -,Reliever
+Matthew Liberatore,7.0,STL,Reliever
+Bruce Zimmermann,13.0,BAL,Starter
+Shane Greene,0.0,- - -,Reliever
+Ryan Burr,0.0,CHW,Reliever
+Tanner Tully,0.0,CLE,Reliever
+Mike Minor,19.0,CIN,Starter
+Joe Kelly,1.0,CHW,Reliever
+Trevor Kelley,0.0,MIL,Reliever
+Adonis Medina,0.0,NYM,Reliever
+Jeurys Familia,0.0,- - -,Reliever
+Justin Dunn,7.0,CIN,Reliever
+Dinelson Lamet,0.0,- - -,Reliever
+Anderson Severino,0.0,CHW,Reliever
+Robert Dugger,1.0,- - -,Reliever
+Silvino Bracho,0.0,ATL,Reliever
+Jesus Cruz,0.0,ATL,Reliever
+Paul Fry,0.0,- - -,Reliever
+Andrew Vasquez,0.0,- - -,Reliever
+Adrian Martinez,12.0,OAK,Starter
+Louis Head,0.0,- - -,Reliever
+Adam Oller,14.0,OAK,Starter
+Patrick Corbin,31.0,WSN,Starter
+Reiver Sanmartin,4.0,CIN,Reliever
+Elieser Hernandez,10.0,MIA,Reliever
+Arodys Vizcaino,0.0,KCR,Reliever
+Patrick Murphy,0.0,WSN,Reliever
+Kaleb Ort,0.0,BOS,Reliever
+Joel Kuhnel,0.0,CIN,Reliever
+Chase Anderson,7.0,CIN,Reliever
+Josh Fleming,3.0,TBR,Reliever
+Shelby Miller,0.0,SFG,Reliever
+Josh Sborz,1.0,TEX,Reliever
+Josh Staumont,0.0,KCR,Reliever
+Janson Junk,2.0,LAA,Reliever
+Chasen Shreve,0.0,NYM,Reliever
+Art Warren,0.0,CIN,Reliever
+Collin Snider,0.0,KCR,Reliever
+Luke Weaver,1.0,- - -,Reliever
+Chase Silseth,7.0,LAA,Reliever
+Aaron Sanchez,10.0,- - -,Reliever
+T.J. McFarland,0.0,STL,Reliever
+Anthony DeSclafani,5.0,SFG,Reliever
+Drew VerHagen,0.0,STL,Reliever
+Tucker Davidson,11.0,- - -,Reliever
+Tayler Scott,0.0,SDP,Reliever
+David McKay,0.0,- - -,Reliever
+Reed Garrett,0.0,WSN,Reliever
+Julian Merryweather,1.0,TOR,Reliever
+Matt Reynolds,0.0,CIN,Reliever
+Ian Hamilton,0.0,MIN,Reliever
+Alejo Lopez,0.0,CIN,Reliever
+Anthony Banda,1.0,- - -,Reliever
+Rob Zastryzny,0.0,- - -,Reliever
+Zach Logue,10.0,OAK,Reliever
+Jake McGee,0.0,- - -,Reliever
+Aaron Fletcher,0.0,PIT,Reliever
+Jake Reed,0.0,- - -,Reliever
+Ashton Goudeau,0.0,COL,Reliever
+Joan Adon,14.0,WSN,Starter
+Ethan Small,2.0,MIL,Reliever
+Norge Ruiz,0.0,OAK,Reliever
+Ronel Blanco,0.0,HOU,Reliever
+Tyler Clippard,0.0,WSN,Reliever
+Francisco Morales,0.0,PHI,Reliever
+Thomas Szapucki,1.0,- - -,Reliever
+Francisco Perez,0.0,WSN,Reliever
+Elvis Peguero,0.0,LAA,Reliever
+Kolby Allard,0.0,TEX,Reliever
+Wil Myers,0.0,SDP,Reliever
+Jose Marte,0.0,LAA,Reliever
+Heath Hembree,0.0,- - -,Reliever
+Carlos Hernandez,7.0,KCR,Reliever
+Spencer Howard,8.0,TEX,Reliever
+Anthony Castro,0.0,CLE,Reliever
+Casey Lawrence,0.0,TOR,Reliever
+Max Meyer,2.0,MIA,Reliever
+Sergio Romo,0.0,- - -,Reliever
+Chad Smith,0.0,COL,Reliever
+Jhoulys Chacin,0.0,COL,Reliever
+Vladimir Gutierrez,8.0,CIN,Reliever
+Greg Holland,0.0,TEX,Reliever
+Jake Hager,0.0,ARI,Reliever
+Aaron Brooks,0.0,STL,Reliever
+Carson Kelly,0.0,ARI,Reliever
+Kevin Herget,0.0,TBR,Reliever
+Raynel Espinal,0.0,CIN,Reliever
+Gavin Hollowell,0.0,COL,Reliever
+Jake Lemoine,0.0,OAK,Reliever
+Sam Coonrod,0.0,PHI,Reliever
+Kyle Muller,3.0,ATL,Reliever
+Luis Patino,6.0,TBR,Reliever
+Ethan Roberts,0.0,CHC,Reliever
+Matt Koch,0.0,SEA,Reliever
+James Norwood,0.0,PHI,Reliever
+Jimmy Yacabonis,1.0,- - -,Reliever
+Bennett Sousa,0.0,CHW,Reliever
+Zac Lowther,0.0,BAL,Reliever
+Sam Clay,0.0,- - -,Reliever
+Domingo Tapia,0.0,OAK,Reliever
+Foster Griffin,0.0,- - -,Reliever
+Chris Devenski,0.0,- - -,Reliever
+Sean Newcomb,1.0,- - -,Reliever
+Miguel Yajure,1.0,PIT,Reliever
+Cesar Valdez,0.0,LAA,Reliever
+Chris Owings,0.0,BAL,Reliever
+Tucker Barnhart,0.0,DET,Reliever
+Robbie Erlin,0.0,LAD,Reliever
+Michael A. Taylor,0.0,KCR,Reliever
+Yolmer Sanchez,0.0,BOS,Reliever
+Jackie Bradley Jr.,0.0,BOS,Reliever
+Connor Sadzeck,0.0,MIL,Reliever
+Jose Castillo,0.0,SDP,Reliever
+Luis Gil,1.0,NYY,Reliever
+Ray Kerr,0.0,SDP,Reliever
+Sam Howard,0.0,PIT,Reliever
+Dallas Keuchel,14.0,- - -,Starter
+Kohei Arihara,4.0,TEX,Reliever
+Lucas Sims,0.0,CIN,Reliever
+Travis Lakins Sr.,0.0,BAL,Reliever
+Damon Jones,0.0,PHI,Reliever
+Alec Mills,2.0,CHC,Reliever
+Jackson Kowar,0.0,KCR,Reliever
+Ryan Weathers,1.0,SDP,Reliever
+Andrew Nardi,0.0,MIA,Reliever
+Daniel Duarte,0.0,CIN,Reliever
+Kervin Castro,0.0,- - -,Reliever
+Caleb Kilian,3.0,CHC,Reliever
+Chris Ellis,2.0,BAL,Reliever
+Cam Vieaux,0.0,PIT,Reliever
+Luis Frias,0.0,ARI,Reliever
+Elvin Rodriguez,5.0,DET,Reliever
+A.J. Ladwig,0.0,MIA,Reliever
+Jared Solomon,0.0,CIN,Reliever
+Tommy Romero,2.0,- - -,Reliever
+Alcides Escobar,0.0,WSN,Reliever
+Bryce Montes de Oca,0.0,NYM,Reliever
+Tyson Miller,2.0,TEX,Reliever
+Phillip Diehl,0.0,CIN,Reliever
+Luke Barker,0.0,MIL,Reliever
+Connor Seabold,5.0,BOS,Reliever
+Yennier Cano,0.0,- - -,Reliever
+R.J. Alvarez,0.0,NYM,Reliever
+A.J. Alexy,0.0,TEX,Reliever
+Pedro Baez,0.0,HOU,Reliever
+Chris Mazza,0.0,TBR,Reliever
+Bryan Hoeing,1.0,MIA,Reliever
+Yu Chang,0.0,TBR,Reliever
+Austin Wynns,0.0,SFG,Reliever
+Locke St. John,0.0,CHC,Reliever
+Huascar Ynoa,2.0,ATL,Reliever
+Stephen Strasburg,1.0,WSN,Reliever
+Ryan McKenna,0.0,BAL,Reliever
+Jake Walsh,0.0,STL,Reliever
+Tayler Saucedo,0.0,TOR,Reliever
+Zack Britton,0.0,NYY,Reliever
+Cade Cavalli,1.0,WSN,Reliever
+Cody Sedlock,0.0,BAL,Reliever
+T.J. Zeuch,3.0,CIN,Reliever
+Jose Butto,1.0,NYM,Reliever
+Oliver Perez,0.0,ARI,Reliever
+Garrett Stubbs,0.0,PHI,Reliever
+Yadier Molina,0.0,STL,Reliever
+Josh Harrison,0.0,CHW,Reliever
+Whit Merrifield,0.0,TOR,Reliever
+Brett Phillips,0.0,TBR,Reliever
+Matt Dermody,0.0,CHC,Reliever
+Hunter Dozier,0.0,KCR,Reliever
+Frank Schwindel,0.0,CHC,Reliever
+Mike Ford,0.0,ATL,Reliever
+Bubby Rossman,0.0,PHI,Reliever
+Nicky Lopez,0.0,KCR,Reliever
+Shaun Anderson,0.0,TOR,Reliever
+Ernie Clement,0.0,CLE,Reliever
+Nicklaus Snyder,0.0,TEX,Reliever
+Frank German,0.0,BOS,Reliever
+Noah Davis,0.0,COL,Reliever
+Hunter Gaddis,2.0,CLE,Reliever
+Thomas Hatch,1.0,TOR,Reliever
+Nick Maton,0.0,PHI,Reliever
+Jerad Eickhoff,1.0,PIT,Reliever
+Darwinzon Hernandez,0.0,BOS,Reliever
+Nick Gordon,0.0,MIN,Reliever
+JC Mejia,0.0,MIL,Reliever
+Jake Brentz,0.0,KCR,Reliever
+Dee Strange-Gordon,0.0,WSN,Reliever
+Victor Caratini,0.0,MIL,Reliever
+Chad Pinder,0.0,OAK,Reliever
+Donovan Walton,0.0,SFG,Reliever
+Albert Pujols,0.0,STL,Reliever
+Diego Castillo,0.0,PIT,Reliever
+Josh VanMeter,0.0,PIT,Reliever
+Brendon Little,0.0,CHC,Reliever
+Andrelton Simmons,0.0,CHC,Reliever
+Max Schrock,0.0,CIN,Reliever
+Brian Moran,0.0,LAA,Reliever
