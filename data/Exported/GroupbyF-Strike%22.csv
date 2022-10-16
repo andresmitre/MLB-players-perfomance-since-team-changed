@@ -194,8 +194,8 @@ Cole Ragans,TEX,60.05
 Cole Sands,MIN,56.575
 Cole Sulser,MIA,63.279999999999994
 Cole Waites,SFG,72.0
-Colin Holderman,NYM,60.833333333333336
 Colin Holderman,PIT,60.8
+Colin Holderman,NYM,60.833333333333336
 Colin Poche,TBR,54.75
 Collin McHugh,ATL,64.91666666666667
 Collin Snider,KCR,50.7
@@ -219,9 +219,9 @@ Cristofer Ogando,TBR,64.6
 Cristopher Sanchez,PHI,56.26666666666666
 DL Hall,BAL,52.599999999999994
 Dakota Hudson,STL,59.300000000000004
-Dallas Keuchel,TEX,67.15
 Dallas Keuchel,ARI,48.8
 Dallas Keuchel,CHW,57.2
+Dallas Keuchel,TEX,67.15
 Damon Jones,PHI,38.5
 Dane Dunning,TEX,59.38333333333333
 Daniel Bard,COL,59.300000000000004
@@ -230,8 +230,8 @@ Daniel Duarte,CIN,78.6
 Daniel Hudson,LAD,53.23333333333333
 Daniel Lynch,KCR,58.28333333333333
 Daniel Mengden,KCR,74.6
-Daniel Norris,DET,61.8
 Daniel Norris,CHC,54.175
+Daniel Norris,DET,61.8
 Danny Coulombe,MIN,61.25
 Danny Young,SEA,85.0
 Danny Young,ATL,66.7
@@ -261,8 +261,8 @@ Derek Law,CIN,66.2
 Derek Law,DET,57.1
 Devin Smeltzer,MIN,60.25
 Devin Williams,MIL,58.166666666666664
-Diego Castillo,PIT,28.6
 Diego Castillo,SEA,55.583333333333336
+Diego Castillo (PIT),PIT,28.6
 Dillon Peters,PIT,60.98
 Dillon Tate,BAL,64.53333333333333
 Dinelson Lamet,SDP,66.43333333333334
@@ -324,8 +324,8 @@ Francisco Morales,PHI,66.8
 Francisco Perez,WSN,61.46666666666667
 Frank German,BOS,60.9
 Frank Schwindel,CHC,72.2
-Frankie Montas,OAK,59.675
 Frankie Montas,NYY,57.7
+Frankie Montas,OAK,59.675
 Franmil Reyes,CHC,66.7
 Freddy Peralta,MIL,57.85
 Freddy Tarnok,ATL,100.0
@@ -354,8 +354,8 @@ Hansel Robles,BOS,50.975
 Hanser Alberto,LAD,48.975
 Harold Castro,DET,66.25
 Hayden Wesneski,CHC,62.9
-Heath Hembree,PIT,56.666666666666664
 Heath Hembree,LAD,55.0
+Heath Hembree,PIT,56.666666666666664
 Hector Neris,HOU,59.300000000000004
 Hirokazu Sawamura,BOS,54.32000000000001
 Hoby Milner,MIL,55.75
@@ -378,8 +378,8 @@ Ildemaro Vargas,WSN,100.0
 J.B. Wendelken,ARI,48.025
 J.P. Feyereisen,TBR,66.63333333333334
 JC Mejia,MIL,56.3
-JP Sears,NYY,63.85
 JP Sears,OAK,64.7
+JP Sears,NYY,63.85
 JT Brubaker,PIT,63.85
 JT Chargois,TBR,75.7
 Jace Peterson,MIL,100.0
@@ -594,16 +594,16 @@ Lucas Giolito,CHW,61.51666666666667
 Lucas Luetge,NYY,57.333333333333336
 Lucas Sims,CIN,60.25
 Luis Castillo,CIN,59.76666666666667
-Luis Castillo,DET,47.8
 Luis Castillo,SEA,62.65
+Luis Castillo (DET),DET,47.8
 Luis Cessa,CIN,59.050000000000004
 Luis Frias,ARI,64.05
 Luis Garcia,HOU,58.28333333333333
-Luis Garcia,SDP,59.61666666666667
+Luis Garcia (SDP),SDP,59.61666666666667
 Luis Gil,NYY,68.4
 Luis Gonzalez,SFG,53.333333333333336
-Luis Ortiz,SFG,60.6
 Luis Ortiz,PIT,63.8
+Luis Ortiz (SFG),SFG,60.6
 Luis Patino,TBR,74.45
 Luis Perdomo,MIL,63.2
 Luis Severino,NYY,66.02000000000001

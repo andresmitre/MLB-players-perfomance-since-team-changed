@@ -262,7 +262,7 @@ Derek Law,CIN,11.8
 Devin Smeltzer,MIN,5.85
 Devin Williams,MIL,27.483333333333334
 Diego Castillo,SEA,14.450000000000001
-Diego Castillo,PIT,-13.4
+Diego Castillo (PIT),PIT,-13.4
 Dillon Peters,PIT,3.8600000000000003
 Dillon Tate,BAL,15.783333333333331
 Dinelson Lamet,COL,21.1
@@ -595,15 +595,15 @@ Lucas Luetge,NYY,16.7
 Lucas Sims,CIN,-1.6999999999999997
 Luis Castillo,CIN,18.03333333333333
 Luis Castillo,SEA,22.65
-Luis Castillo,DET,35.55
+Luis Castillo (DET),DET,35.55
 Luis Cessa,CIN,4.3999999999999995
 Luis Frias,ARI,-6.3500000000000005
-Luis Garcia,SDP,20.099999999999998
 Luis Garcia,HOU,17.183333333333334
+Luis Garcia (SDP),SDP,20.099999999999998
 Luis Gil,NYY,15.8
 Luis Gonzalez,SFG,-1.6666666666666667
 Luis Ortiz,PIT,10.1
-Luis Ortiz,SFG,9.1
+Luis Ortiz (SFG),SFG,9.1
 Luis Patino,TBR,-0.6000000000000003
 Luis Perdomo,MIL,8.4
 Luis Severino,NYY,18.1
