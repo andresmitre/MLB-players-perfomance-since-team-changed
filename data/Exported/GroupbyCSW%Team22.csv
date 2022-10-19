@@ -10,8 +10,8 @@ Aaron Civale,CLE,27.63333333333333
 Aaron Fletcher,PIT,26.55
 Aaron Loup,LAA,27.433333333333334
 Aaron Nola,PHI,32.38333333333333
-Aaron Sanchez,WSN,25.7
 Aaron Sanchez,MIN,25.35
+Aaron Sanchez,WSN,25.7
 Adam Cimber,TOR,27.133333333333336
 Adam Kolarek,OAK,21.8
 Adam Oller,OAK,21.633333333333336
@@ -23,9 +23,9 @@ Adrian Houser,MIL,23.9
 Adrian Martinez,OAK,26.78
 Adrian Morejon,SDP,23.925
 Adrian Sampson,CHC,22.16
+Albert Abreu,- - -,29.8
 Albert Abreu,NYY,26.5
 Albert Abreu,TEX,23.65
-Albert Abreu,- - -,29.8
 Albert Pujols,STL,18.5
 Alcides Escobar,WSN,16.7
 Alec Mills,CHC,19.700000000000003
@@ -38,8 +38,8 @@ Alex Faedo,DET,26.099999999999998
 Alex Lange,DET,34.36666666666667
 Alex Vesia,LAD,30.75
 Alex Wood,SFG,29.0
-Alex Young,SFG,29.049999999999997
 Alex Young,CLE,33.3
+Alex Young,SFG,29.049999999999997
 Alexander Wells,BAL,31.8
 Alexis Diaz,CIN,29.78333333333333
 Amir Garrett,KCR,27.983333333333334
@@ -88,8 +88,8 @@ Austin Davis,BOS,27.619999999999997
 Austin Davis,MIN,27.8
 Austin Gomber,COL,25.28333333333333
 Austin Pruitt,OAK,25.639999999999997
-Austin Voth,WSN,25.549999999999997
 Austin Voth,BAL,26.45
+Austin Voth,WSN,25.549999999999997
 Austin Warren,LAA,22.866666666666664
 Austin Wynns,SFG,11.25
 Bailey Falter,PHI,29.266666666666666
@@ -171,16 +171,16 @@ Chris Devenski,ARI,29.6
 Chris Devenski,PHI,29.9
 Chris Ellis,BAL,20.5
 Chris Flexen,SEA,22.71666666666667
-Chris Martin,LAD,31.35
 Chris Martin,CHC,26.675
+Chris Martin,LAD,31.35
 Chris Mazza,TBR,20.7
 Chris Owings,BAL,20.0
 Chris Paddack,MIN,26.65
 Chris Sale,BOS,32.4
 Chris Stratton,PIT,28.2
 Chris Stratton,STL,26.05
-Christian Bethancourt,TBR,30.95
 Christian Bethancourt,OAK,8.3
+Christian Bethancourt,TBR,30.95
 Cionel Perez,BAL,28.05
 Clarke Schmidt,NYY,29.53333333333333
 Clay Holmes,NYY,30.366666666666664
@@ -194,8 +194,8 @@ Cole Ragans,TEX,22.25
 Cole Sands,MIN,25.5
 Cole Sulser,MIA,28.7
 Cole Waites,SFG,22.1
-Colin Holderman,PIT,17.8
 Colin Holderman,NYM,28.46666666666667
+Colin Holderman,PIT,17.8
 Colin Poche,TBR,25.233333333333334
 Collin McHugh,ATL,28.900000000000002
 Collin Snider,KCR,25.16
@@ -233,8 +233,8 @@ Daniel Mengden,KCR,29.549999999999997
 Daniel Norris,CHC,31.25
 Daniel Norris,DET,30.4
 Danny Coulombe,MIN,24.3
-Danny Young,SEA,42.7
 Danny Young,ATL,33.3
+Danny Young,SEA,42.7
 Dany Jimenez,OAK,33.5
 Darick Hall,PHI,33.3
 Darin Ruf,NYM,14.3
@@ -248,8 +248,8 @@ David McKay,- - -,20.4
 David Peterson,NYM,27.8
 David Phelps,TOR,26.933333333333334
 David Price,LAD,26.066666666666666
-David Robertson,PHI,31.15
 David Robertson,CHC,34.5
+David Robertson,PHI,31.15
 Davis Martin,CHW,26.82
 Dean Kremer,BAL,25.525
 Dee Strange-Gordon,WSN,14.3
@@ -265,8 +265,8 @@ Diego Castillo,SEA,27.8
 Diego Castillo (PIT),PIT,22.049999999999997
 Dillon Peters,PIT,25.419999999999998
 Dillon Tate,BAL,29.650000000000002
-Dinelson Lamet,SDP,30.833333333333332
 Dinelson Lamet,COL,32.9
+Dinelson Lamet,SDP,30.833333333333332
 Domingo Acevedo,OAK,28.116666666666664
 Domingo German,NYY,27.900000000000002
 Domingo Tapia,OAK,22.2
@@ -370,16 +370,16 @@ Hunter Harvey,WSN,28.95
 Hunter Strickland,CIN,26.083333333333332
 Hyun-Jin Ryu,TOR,26.266666666666666
 Ian Anderson,ATL,25.839999999999996
-Ian Gibaut,CLE,28.6
 Ian Gibaut,CIN,28.833333333333332
+Ian Gibaut,CLE,28.6
 Ian Hamilton,MIN,19.0
 Ian Kennedy,ARI,24.833333333333332
 Ildemaro Vargas,WSN,0.0
 J.B. Wendelken,ARI,21.1
 J.P. Feyereisen,TBR,29.03333333333333
 JC Mejia,MIL,25.4
-JP Sears,OAK,25.5
 JP Sears,NYY,30.9
+JP Sears,OAK,25.5
 JT Brubaker,PIT,29.78333333333333
 JT Chargois,TBR,32.63333333333333
 Jace Peterson,MIL,25.0
@@ -389,21 +389,21 @@ Jackie Bradley Jr.,BOS,13.3
 Jackson Kowar,KCR,29.866666666666664
 Jackson Stephens,ATL,25.833333333333332
 Jackson Tetreault,WSN,21.9
-Jacob Barnes,NYY,32.0
 Jacob Barnes,DET,19.900000000000002
+Jacob Barnes,NYY,32.0
 Jacob deGrom,NYM,35.4
 Jaime Barria,LAA,26.349999999999998
 Jake Bird,COL,27.925
 Jake Brentz,KCR,29.4
 Jake Cousins,MIL,32.4
-Jake Diekman,BOS,30.275
 Jake Diekman,CHW,30.4
+Jake Diekman,BOS,30.275
 Jake Fishman,MIA,29.166666666666668
 Jake Hager,ARI,20.85
 Jake Lemoine,OAK,27.15
-Jake McGee,WSN,16.1
 Jake McGee,- - -,21.95
 Jake McGee,SFG,22.2
+Jake McGee,WSN,16.1
 Jake Odorizzi,ATL,23.85
 Jake Odorizzi,HOU,23.03333333333333
 Jake Reed,- - -,34.7
@@ -428,8 +428,8 @@ Jason Adam,TBR,35.25
 Jason Alexander,MIL,26.425
 Jason Foley,DET,24.633333333333336
 Javier Assad,CHC,23.75
-Javy Guerra,TBR,25.65
 Javy Guerra,- - -,21.7
+Javy Guerra,TBR,25.65
 Jay Jackson,ATL,25.0
 Jeff Brigham,MIA,29.766666666666666
 Jeff Hoffman,CIN,25.975
@@ -438,9 +438,9 @@ Jerad Eickhoff,PIT,22.9
 Jeremiah Estrada,CHC,26.15
 Jeremy Beasley,TOR,27.65
 Jermaine Palacios,MIN,25.0
-Jesse Chavez,LAA,26.3
-Jesse Chavez,ATL,32.275
 Jesse Chavez,- - -,29.2
+Jesse Chavez,ATL,32.275
+Jesse Chavez,LAA,26.3
 Jesus Cruz,ATL,23.049999999999997
 Jesus Luzardo,MIA,31.35
 Jesus Tinoco,TEX,29.55
@@ -454,8 +454,8 @@ Jhonathan Diaz,LAA,22.25
 Jhoulys Chacin,COL,26.366666666666664
 Jimmy Herget,LAA,30.5
 Jimmy Lambert,CHW,26.860000000000003
-Jimmy Yacabonis,TBR,28.700000000000003
 Jimmy Yacabonis,MIA,36.75
+Jimmy Yacabonis,TBR,28.700000000000003
 JoJo Romero,STL,33.8
 JoJo Romero,PHI,20.6
 Joan Adon,WSN,23.174999999999997
@@ -467,9 +467,9 @@ Joe Musgrove,SDP,30.933333333333334
 Joe Ryan,MIN,27.133333333333336
 Joe Smith,MIN,26.660000000000004
 Joel Kuhnel,CIN,27.48
-Joel Payamps,OAK,24.6
-Joel Payamps,KCR,24.55
 Joel Payamps,- - -,19.6
+Joel Payamps,KCR,24.55
+Joel Payamps,OAK,24.6
 Joely Rodriguez,NYM,31.933333333333334
 Joey Krehbiel,BAL,26.833333333333332
 Joey Wentz,DET,23.65
@@ -487,14 +487,14 @@ Jonathan Loaisiga,NYY,26.98
 Jordan Hicks,STL,27.579999999999995
 Jordan Holloway,MIA,29.8
 Jordan Lyles,BAL,26.400000000000002
-Jordan Montgomery,NYY,29.825
 Jordan Montgomery,STL,26.15
+Jordan Montgomery,NYY,29.825
 Jordan Romano,TOR,30.399999999999995
 Jordan Sheffield,COL,18.8
 Jordan Weems,WSN,24.080000000000002
 Jorge Alcala,MIN,30.0
-Jorge Lopez,MIN,29.049999999999997
 Jorge Lopez,BAL,30.125
+Jorge Lopez,MIN,29.049999999999997
 Jose Alvarado,PHI,32.266666666666666
 Jose Alvarez,SFG,27.5
 Jose Berrios,TOR,27.683333333333334
@@ -505,16 +505,16 @@ Jose Cuas,KCR,29.46
 Jose Leclerc,TEX,29.2
 Jose Marte,LAA,25.433333333333334
 Jose Quijada,LAA,23.433333333333334
-Jose Quintana,STL,24.1
 Jose Quintana,PIT,25.975
+Jose Quintana,STL,24.1
 Jose Ruiz,CHW,27.633333333333336
 Jose Suarez,LAA,28.0
 Jose Urena,COL,22.03333333333333
 Jose Urena,MIL,28.1
 Jose Urquidy,HOU,25.7
 Josh Fleming,TBR,27.325000000000003
-Josh Hader,SDP,29.15
 Josh Hader,MIL,34.225
+Josh Hader,SDP,29.15
 Josh Harrison,CHW,20.833333333333332
 Josh Rogers,WSN,20.400000000000002
 Josh Sborz,TEX,30.0
@@ -527,8 +527,8 @@ Jovani Moran,MIN,32.88
 Juan Minaya,MIN,29.633333333333336
 Julian Merryweather,TOR,26.45
 Julio Urias,LAD,28.21666666666667
-Junior Fernandez,STL,28.2
 Junior Fernandez,PIT,18.1
+Junior Fernandez,STL,28.2
 Justin Bruihl,LAD,23.05
 Justin Dunn,CIN,26.05
 Justin Grimm,OAK,26.549999999999997
@@ -617,8 +617,8 @@ Luke Weaver,ARI,25.166666666666668
 Luke Weaver,KCR,21.1
 MacKenzie Gore,SDP,25.95
 Madison Bumgarner,ARI,24.0
-Manny Banuelos,PIT,27.133333333333336
 Manny Banuelos,NYY,24.3
+Manny Banuelos,PIT,27.133333333333336
 Manuel Rodriguez,CHC,23.0
 Marco Gonzales,SEA,23.75
 Marcos Diplan,BAL,24.549999999999997
@@ -632,16 +632,16 @@ Mason Thompson,WSN,25.275
 Matt Barnes,BOS,28.65
 Matt Batten,SDP,25.799999999999997
 Matt Brash,SEA,31.939999999999998
-Matt Bush,TEX,34.1
 Matt Bush,MIL,33.0
+Matt Bush,TEX,34.1
 Matt Dermody,CHC,23.1
 Matt Foster,CHW,22.866666666666664
 Matt Gage,TOR,28.9
 Matt Koch,SEA,25.0
 Matt Manning,DET,24.633333333333336
 Matt Moore,TEX,29.3
-Matt Peacock,ARI,31.1
 Matt Peacock,KCR,25.0
+Matt Peacock,ARI,31.1
 Matt Reynolds,CIN,14.3
 Matt Strahm,BOS,28.599999999999998
 Matt Swarmer,CHC,26.733333333333334
@@ -650,8 +650,8 @@ Matthew Boyd,SEA,31.8
 Matthew Festa,SEA,31.166666666666668
 Matthew Liberatore,STL,26.0
 Mauricio Llovera,SFG,29.925
-Max Castillo,TOR,29.65
 Max Castillo,KCR,24.45
+Max Castillo,TOR,29.65
 Max Fried,ATL,27.633333333333336
 Max Kranick,PIT,21.1
 Max Meyer,MIA,28.1
@@ -685,8 +685,8 @@ Mike Mayers,LAA,25.425
 Mike Minor,CIN,25.575
 Miles Mikolas,STL,26.016666666666666
 Mitch Keller,PIT,25.766666666666666
-Mitch White,LAD,24.7
 Mitch White,TOR,23.5
+Mitch White,LAD,24.7
 Mychal Givens,CHC,28.55
 Mychal Givens,NYM,29.4
 Nabil Crismatt,SDP,29.933333333333334
@@ -710,8 +710,8 @@ Nick Wittgren,STL,23.866666666666664
 Nicklaus Snyder,TEX,12.1
 Nicky Lopez,KCR,6.3
 Noah Davis,COL,43.8
-Noah Syndergaard,PHI,23.8
 Noah Syndergaard,LAA,27.775
+Noah Syndergaard,PHI,23.8
 Noe Ramirez,ARI,29.4
 Norge Ruiz,OAK,24.3
 Oliver Ortega,LAA,30.76
@@ -727,8 +727,8 @@ Patrick Corbin,WSN,25.883333333333336
 Patrick Murphy,WSN,20.4
 Patrick Sandoval,LAA,29.316666666666666
 Paul Blackburn,OAK,26.080000000000002
-Paul Fry,BAL,30.700000000000003
 Paul Fry,ARI,29.6
+Paul Fry,BAL,30.700000000000003
 Paul Sewald,SEA,31.616666666666664
 Pedro Avila,SDP,30.0
 Pedro Baez,HOU,26.0
@@ -756,9 +756,9 @@ Reese McGuire,BOS,14.3
 Reid Detmers,LAA,26.900000000000002
 Reiss Knehr,SDP,20.55
 Reiver Sanmartin,CIN,27.233333333333334
+Reyes Moronta,- - -,28.7
 Reyes Moronta,ARI,28.9
 Reyes Moronta,LAD,29.0
-Reyes Moronta,- - -,28.7
 Reynaldo Lopez,CHW,29.516666666666666
 Rich Hill,BOS,29.46666666666667
 Richard Bleier,MIA,25.016666666666666
@@ -769,12 +769,12 @@ Rob Zastryzny,LAA,21.6
 Rob Zastryzny,NYM,23.8
 Robbie Erlin,LAD,17.5
 Robbie Ray,SEA,26.516666666666666
-Robert Dugger,CIN,29.6
 Robert Dugger,- - -,28.8
+Robert Dugger,CIN,29.6
 Robert Gsellman,CHC,23.7
-Robert Stephenson,PIT,38.3
-Robert Stephenson,COL,26.125
 Robert Stephenson,- - -,30.4
+Robert Stephenson,COL,26.125
+Robert Stephenson,PIT,38.3
 Robert Suarez,SDP,25.5
 Roenis Elias,SEA,23.35
 Ron Marinaccio,NYY,31.083333333333332
@@ -820,8 +820,8 @@ Scott Effross,NYY,30.65
 Sean Doolittle,WSN,38.2
 Sean Hjelle,SFG,27.8
 Sean Manaea,SDP,27.516666666666666
-Sean Newcomb,CHC,26.6
 Sean Newcomb,- - -,24.0
+Sean Newcomb,CHC,26.6
 Sean Poppen,ARI,27.98
 Sean Reid-Foley,NYM,29.1
 Seranthony Dominguez,PHI,28.0
@@ -831,12 +831,12 @@ Seth Lugo,NYM,29.03333333333333
 Seth Martinez,HOU,27.95
 Shane Baz,TBR,29.45
 Shane Bieber,CLE,31.433333333333334
-Shane Greene,NYY,16.7
 Shane Greene,LAD,23.1
+Shane Greene,NYY,16.7
 Shane McClanahan,TBR,32.13333333333333
 Shaun Anderson,TOR,28.6
-Shawn Armstrong,TBR,29.619999999999997
 Shawn Armstrong,MIA,21.1
+Shawn Armstrong,TBR,29.619999999999997
 Shelby Miller,SFG,36.2
 Sheldon Neuse,OAK,18.333333333333332
 Shohei Ohtani,LAA,32.15
@@ -867,12 +867,12 @@ Tayler Saucedo,TOR,22.9
 Tayler Scott,SDP,32.2
 Taylor Clarke,KCR,24.349999999999998
 Taylor Hearn,TEX,26.083333333333332
-Taylor Rogers,SDP,33.075
 Taylor Rogers,MIL,37.400000000000006
+Taylor Rogers,SDP,33.075
 Taylor Widener,ARI,20.4
 Thomas Hatch,TOR,21.1
-Thomas Szapucki,SFG,28.1
 Thomas Szapucki,NYM,20.4
+Thomas Szapucki,SFG,28.1
 Tim Hill,SDP,24.183333333333334
 Tim Mayza,TOR,28.666666666666668
 Tommy Henry,ARI,25.55
@@ -897,25 +897,25 @@ Trevor Stephan,CLE,31.650000000000002
 Trevor Williams,NYM,24.566666666666666
 Triston McKenzie,CLE,27.183333333333334
 Tucker Barnhart,DET,29.4
-Tucker Davidson,LAA,24.450000000000003
 Tucker Davidson,ATL,26.8
+Tucker Davidson,LAA,24.450000000000003
 Ty Blach,COL,29.683333333333334
 Tyler Alexander,DET,24.06
 Tyler Anderson,LAD,28.083333333333332
-Tyler Beede,SFG,17.3
 Tyler Beede,- - -,27.5
 Tyler Beede,PIT,25.125
+Tyler Beede,SFG,17.3
 Tyler Clippard,WSN,23.9
-Tyler Cyr,PHI,0.0
 Tyler Cyr,OAK,27.9
+Tyler Cyr,PHI,0.0
 Tyler Danish,BOS,26.439999999999998
 Tyler Duffey,MIN,25.36
 Tyler Gilbert,ARI,25.025
 Tyler Glasnow,TBR,31.6
 Tyler Holton,ARI,26.775
 Tyler Kinley,COL,29.266666666666666
-Tyler Mahle,CIN,28.425
 Tyler Mahle,MIN,21.9
+Tyler Mahle,CIN,28.425
 Tyler Matzek,ATL,24.52
 Tyler Rogers,SFG,29.516666666666666
 Tyler Thornburg,ATL,25.25
@@ -945,15 +945,15 @@ Wyatt Mills,SEA,23.0
 Xzavion Curry,CLE,25.200000000000003
 Yadier Molina,STL,17.5
 Yency Almonte,LAD,33.9
-Yennier Cano,BAL,25.0
 Yennier Cano,MIN,28.233333333333334
+Yennier Cano,BAL,25.0
 Yerry De Los Santos,PIT,29.9
 Yerry Rodriguez,TEX,16.7
 Yimi Garcia,TOR,27.516666666666666
 Yoan Lopez,NYM,28.52
-Yohan Ramirez,SEA,30.4
-Yohan Ramirez,PIT,26.35
 Yohan Ramirez,CLE,30.0
+Yohan Ramirez,PIT,26.35
+Yohan Ramirez,SEA,30.4
 Yolmer Sanchez,BOS,0.0
 Yonny Chirinos,TBR,27.0
 Yu Chang,TBR,15.4

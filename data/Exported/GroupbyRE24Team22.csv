@@ -23,9 +23,9 @@ Adrian Houser,MIL,-2.7399999999999998
 Adrian Martinez,OAK,-2.992
 Adrian Morejon,SDP,0.5924999999999999
 Adrian Sampson,CHC,2.306
-Albert Abreu,TEX,-0.95
 Albert Abreu,- - -,1.34
 Albert Abreu,NYY,-0.8466666666666667
+Albert Abreu,TEX,-0.95
 Albert Pujols,STL,-3.54
 Alcides Escobar,WSN,-1.2
 Alec Mills,CHC,-6.07
@@ -64,9 +64,9 @@ Angel De Jesus,DET,0.69
 Angel Rondon,STL,2.5
 Angel Zerpa,KCR,1.97
 Anibal Sanchez,WSN,0.28999999999999987
-Anthony Banda,TOR,0.89
-Anthony Banda,PIT,-2.7066666666666666
 Anthony Banda,NYY,-2.29
+Anthony Banda,PIT,-2.7066666666666666
+Anthony Banda,TOR,0.89
 Anthony Bass,MIA,3.3274999999999997
 Anthony Bass,TOR,3.2750000000000004
 Anthony Bender,MIA,0.27666666666666667
@@ -84,20 +84,20 @@ Art Warren,CIN,-2.276666666666667
 Ashton Goudeau,COL,-2.085
 Austin Adams,SDP,1.19
 Austin Brice,PIT,0.11999999999999998
-Austin Davis,MIN,-2.29
 Austin Davis,BOS,-2.4240000000000004
+Austin Davis,MIN,-2.29
 Austin Gomber,COL,-1.4183333333333337
 Austin Pruitt,OAK,-1.276
-Austin Voth,WSN,-5.605
 Austin Voth,BAL,2.3724999999999996
+Austin Voth,WSN,-5.605
 Austin Warren,LAA,-2.5866666666666664
 Austin Wynns,SFG,-1.0350000000000001
 Bailey Falter,PHI,0.06166666666666661
 Bailey Ober,MIN,1.1574999999999998
 Beau Brieske,DET,0.06499999999999995
+Beau Sulser,- - -,-5.51
 Beau Sulser,BAL,-0.05000000000000001
 Beau Sulser,PIT,0.69
-Beau Sulser,- - -,-5.51
 Bennett Sousa,CHW,-3.473333333333334
 Blake Snell,SDP,1.9983333333333333
 Blake Taylor,HOU,-0.21333333333333335
@@ -162,9 +162,9 @@ Chase Anderson,CIN,-2.055
 Chase De Jong,PIT,2.0833333333333335
 Chase Silseth,LAA,-2.6933333333333334
 Chasen Shreve,NYM,-2.1750000000000003
-Chi Chi Gonzalez,NYY,0.85
-Chi Chi Gonzalez,MIL,-1.16
 Chi Chi Gonzalez,- - -,-4.78
+Chi Chi Gonzalez,MIL,-1.16
+Chi Chi Gonzalez,NYY,0.85
 Chris Archer,MIN,-0.7200000000000001
 Chris Bassitt,NYM,2.25
 Chris Devenski,ARI,-0.855
@@ -194,8 +194,8 @@ Cole Ragans,TEX,-2.29
 Cole Sands,MIN,-1.53
 Cole Sulser,MIA,-0.40800000000000003
 Cole Waites,SFG,0.18
-Colin Holderman,PIT,-2.13
 Colin Holderman,NYM,1.1266666666666667
+Colin Holderman,PIT,-2.13
 Colin Poche,TBR,-0.5199999999999999
 Collin McHugh,ATL,3.0033333333333334
 Collin Snider,KCR,-0.324
@@ -220,8 +220,8 @@ Cristopher Sanchez,PHI,-0.6333333333333332
 DL Hall,BAL,-2.83
 Dakota Hudson,STL,-0.3683333333333334
 Dallas Keuchel,ARI,-5.68
-Dallas Keuchel,TEX,-4.195
 Dallas Keuchel,CHW,-9.49
+Dallas Keuchel,TEX,-4.195
 Damon Jones,PHI,-1.05
 Dane Dunning,TEX,-0.9866666666666667
 Daniel Bard,COL,2.703333333333333
@@ -243,21 +243,21 @@ Darwinzon Hernandez,BOS,-7.195
 Daulton Jefferies,OAK,-4.375
 Dauri Moreta,CIN,-0.3383333333333332
 David Bednar,PIT,1.202
-David McKay,- - -,-4.06
 David McKay,NYY,0.91
+David McKay,- - -,-4.06
 David Peterson,NYM,-0.11999999999999995
 David Phelps,TOR,1.5050000000000001
 David Price,LAD,0.7933333333333334
-David Robertson,PHI,1.87
 David Robertson,CHC,2.63
+David Robertson,PHI,1.87
 Davis Martin,CHW,-1.032
 Dean Kremer,BAL,3.235
 Dee Strange-Gordon,WSN,-2.47
 Dennis Santana,TEX,-1.36
 Denyi Reyes,BAL,0.77
 Dereck Rodriguez,MIN,-0.845
-Derek Law,CIN,-2.12
 Derek Law,- - -,1.14
+Derek Law,CIN,-2.12
 Derek Law,DET,-3.53
 Devin Smeltzer,MIN,0.615
 Devin Williams,MIL,2.078333333333333
@@ -305,8 +305,8 @@ Enoli Paredes,HOU,0.16999999999999998
 Enyel De Los Santos,CLE,1.61
 Erasmo Ramirez,WSN,1.9566666666666663
 Eric Lauer,MIL,1.16
-Eric Stout,CHC,-0.2
 Eric Stout,PIT,-2.47
+Eric Stout,CHC,-0.2
 Erich Uelmen,CHC,-1.1033333333333333
 Erick Fedde,WSN,-3.063333333333333
 Erik Swanson,SEA,1.5899999999999999
@@ -317,21 +317,21 @@ Evan Lee,WSN,-1.92
 Evan Phillips,LAD,3.9533333333333336
 Felix Bautista,BAL,2.9266666666666663
 Fernando Cruz,CIN,0.71
-Foster Griffin,TOR,0.85
 Foster Griffin,KCR,-2.5149999999999997
+Foster Griffin,TOR,0.85
 Framber Valdez,HOU,3.5533333333333332
 Francisco Morales,PHI,-1.32
 Francisco Perez,WSN,-1.3766666666666667
 Frank German,BOS,-4.82
 Frank Schwindel,CHC,-4.51
-Frankie Montas,OAK,1.1275000000000002
 Frankie Montas,NYY,-4.640000000000001
+Frankie Montas,OAK,1.1275000000000002
 Franmil Reyes,CHC,0.42
 Freddy Peralta,MIL,1.755
 Freddy Tarnok,ATL,-0.46
 Gabe Speier,KCR,0.51
-Garrett Cleavinger,TBR,2.1550000000000002
 Garrett Cleavinger,LAD,-1.4833333333333334
+Garrett Cleavinger,TBR,2.1550000000000002
 Garrett Hill,DET,-0.5900000000000002
 Garrett Richards,TEX,-1.266
 Garrett Stubbs,PHI,-1.7533333333333332
@@ -389,27 +389,27 @@ Jackie Bradley Jr.,BOS,-0.48
 Jackson Kowar,KCR,-3.716666666666667
 Jackson Stephens,ATL,-0.9733333333333333
 Jackson Tetreault,WSN,-2.44
-Jacob Barnes,NYY,0.71
 Jacob Barnes,DET,-1.3533333333333335
+Jacob Barnes,NYY,0.71
 Jacob deGrom,NYM,4.295
 Jaime Barria,LAA,0.6333333333333334
 Jake Bird,COL,-1.7424999999999997
 Jake Brentz,KCR,-10.76
 Jake Cousins,MIL,0.535
-Jake Diekman,BOS,-1.69
 Jake Diekman,CHW,-5.574999999999999
+Jake Diekman,BOS,-1.69
 Jake Fishman,MIA,0.48666666666666664
 Jake Hager,ARI,-0.36
 Jake Lemoine,OAK,-3.245
-Jake McGee,WSN,-0.9
 Jake McGee,- - -,-0.99
 Jake McGee,SFG,-1.2466666666666668
+Jake McGee,WSN,-0.9
 Jake Odorizzi,ATL,-4.125
 Jake Odorizzi,HOU,0.31999999999999984
 Jake Reed,- - -,0.93
+Jake Reed,BAL,-5.35
 Jake Reed,LAD,0.86
 Jake Reed,NYM,-2.34
-Jake Reed,BAL,-5.35
 Jake Walsh,STL,-1.06
 Jake Woodford,STL,2.1759999999999997
 Jakob Junis,SFG,-0.08000000000000007
@@ -438,16 +438,16 @@ Jerad Eickhoff,PIT,-8.42
 Jeremiah Estrada,CHC,-0.07
 Jeremy Beasley,TOR,-1.215
 Jermaine Palacios,MIN,0.73
-Jesse Chavez,LAA,-7.64
 Jesse Chavez,- - -,2.01
 Jesse Chavez,ATL,0.5125
+Jesse Chavez,LAA,-7.64
 Jesus Cruz,ATL,-0.725
 Jesus Luzardo,MIA,2.455
 Jesus Tinoco,TEX,1.8450000000000002
-Jeurys Familia,PHI,-3.05
 Jeurys Familia,BOS,-1.02
-Jharel Cotton,SFG,-1.07
+Jeurys Familia,PHI,-3.05
 Jharel Cotton,MIN,0.374
+Jharel Cotton,SFG,-1.07
 Jhoan Duran,MIN,2.9766666666666666
 Jhon Romero,MIN,-0.76
 Jhonathan Diaz,LAA,0.7250000000000001
@@ -493,8 +493,8 @@ Jordan Romano,TOR,1.8516666666666666
 Jordan Sheffield,COL,0.545
 Jordan Weems,WSN,-1.524
 Jorge Alcala,MIN,1.17
-Jorge Lopez,MIN,-0.56
 Jorge Lopez,BAL,2.1774999999999998
+Jorge Lopez,MIN,-0.56
 Jose Alvarado,PHI,0.6916666666666665
 Jose Alvarez,SFG,-1.9500000000000002
 Jose Berrios,TOR,-2.98
@@ -505,16 +505,16 @@ Jose Cuas,KCR,-0.07599999999999998
 Jose Leclerc,TEX,1.0924999999999998
 Jose Marte,LAA,-0.5233333333333331
 Jose Quijada,LAA,1.0433333333333332
-Jose Quintana,STL,6.085
 Jose Quintana,PIT,1.565
+Jose Quintana,STL,6.085
 Jose Ruiz,CHW,-0.6883333333333334
 Jose Suarez,LAA,0.07166666666666677
-Jose Urena,MIL,-3.11
 Jose Urena,COL,-0.93
+Jose Urena,MIL,-3.11
 Jose Urquidy,HOU,0.3716666666666668
 Josh Fleming,TBR,-5.1875
-Josh Hader,SDP,-3.4699999999999998
 Josh Hader,MIL,0.4249999999999998
+Josh Hader,SDP,-3.4699999999999998
 Josh Harrison,CHW,-1.5333333333333332
 Josh Rogers,WSN,-1.04
 Josh Sborz,TEX,-1.316
@@ -527,8 +527,8 @@ Jovani Moran,MIN,0.9540000000000001
 Juan Minaya,MIN,-0.0433333333333333
 Julian Merryweather,TOR,-2.6075
 Julio Urias,LAD,5.148333333333333
-Junior Fernandez,STL,-1.6766666666666667
 Junior Fernandez,PIT,2.39
+Junior Fernandez,STL,-1.6766666666666667
 Justin Bruihl,LAD,0.02500000000000005
 Justin Dunn,CIN,-2.73
 Justin Grimm,OAK,-0.86
@@ -546,8 +546,8 @@ Ken Waldichuk,OAK,-3.79
 Kendall Graveman,CHW,-0.06999999999999999
 Kenley Jansen,ATL,0.7933333333333333
 Kenny Rosenberg,LAA,-0.06666666666666665
-Kervin Castro,SFG,-3.41
 Kervin Castro,CHC,-2.63
+Kervin Castro,SFG,-3.41
 Kevin Gausman,TOR,2.2199999999999998
 Kevin Ginkel,ARI,0.5650000000000002
 Kevin Herget,TBR,-2.46
@@ -584,8 +584,8 @@ Logan Allen,BAL,-1.73
 Logan Gilbert,SEA,1.8299999999999998
 Logan Gillaspie,BAL,-0.2649999999999999
 Logan Webb,SFG,3.47
-Lou Trivino,OAK,-2.9524999999999997
 Lou Trivino,NYY,1.865
+Lou Trivino,OAK,-2.9524999999999997
 Louie Varland,MIN,2.04
 Louis Head,BAL,-1.23
 Louis Head,MIA,-3.043333333333333
@@ -611,8 +611,8 @@ Luis Torrens,SEA,-0.56
 Luke Bard,NYY,0.42
 Luke Bard,TBR,1.6749999999999998
 Luke Barker,MIL,-2.93
-Luke Farrell,CHC,-0.33
 Luke Farrell,- - -,-2.04
+Luke Farrell,CHC,-0.33
 Luke Weaver,ARI,-1.7899999999999998
 Luke Weaver,KCR,-3.11
 MacKenzie Gore,SDP,0.06750000000000012
@@ -640,8 +640,8 @@ Matt Gage,TOR,1.7850000000000001
 Matt Koch,SEA,-2.1
 Matt Manning,DET,1.4866666666666666
 Matt Moore,TEX,1.55
-Matt Peacock,ARI,-1.6
 Matt Peacock,KCR,-0.8099999999999999
+Matt Peacock,ARI,-1.6
 Matt Reynolds,CIN,-2.67
 Matt Strahm,BOS,0.013333333333333253
 Matt Swarmer,CHC,-2.783333333333333
@@ -660,9 +660,9 @@ Max Schrock,CIN,-4.49
 Merrill Kelly,ARI,3.9716666666666662
 Michael A. Taylor,KCR,-1.01
 Michael Feliz,BOS,-0.21
-Michael Fulmer,MIN,-0.46
-Michael Fulmer,DET,1.3725
 Michael Fulmer,- - -,-1.93
+Michael Fulmer,DET,1.3725
+Michael Fulmer,MIN,-0.46
 Michael Grove,LAD,-1.81
 Michael Kelly,PHI,0.5
 Michael King,NYY,2.76
@@ -687,8 +687,8 @@ Miles Mikolas,STL,2.5866666666666664
 Mitch Keller,PIT,0.3183333333333332
 Mitch White,TOR,-8.15
 Mitch White,LAD,0.765
-Mychal Givens,NYM,-1.02
 Mychal Givens,CHC,1.6300000000000001
+Mychal Givens,NYM,-1.02
 Nabil Crismatt,SDP,0.2800000000000001
 Nash Walters,LAA,-0.41
 Nate Fisher,NYM,1.51
@@ -744,8 +744,8 @@ Phoenix Sanders,TBR,0.6233333333333334
 Pierce Johnson,SDP,-0.38000000000000006
 R.J. Alvarez,NYM,-2.14
 Rafael Montero,HOU,1.9366666666666665
-Raisel Iglesias,LAA,-0.8950000000000001
 Raisel Iglesias,ATL,5.495
+Raisel Iglesias,LAA,-0.8950000000000001
 Ralph Garza,TBR,0.044000000000000004
 Randal Grichuk,COL,0.63
 Ranger Suarez,PHI,1.0266666666666666
@@ -769,12 +769,12 @@ Rob Zastryzny,LAA,0.97
 Rob Zastryzny,NYM,0.09
 Robbie Erlin,LAD,-1.03
 Robbie Ray,SEA,0.34833333333333344
-Robert Dugger,CIN,-0.725
 Robert Dugger,- - -,-2.65
+Robert Dugger,CIN,-0.725
 Robert Gsellman,CHC,-2.3
-Robert Stephenson,PIT,2.47
 Robert Stephenson,- - -,-3.07
 Robert Stephenson,COL,-0.1525
+Robert Stephenson,PIT,2.47
 Robert Suarez,SDP,2.13
 Roenis Elias,SEA,0.125
 Ron Marinaccio,NYY,1.3016666666666665
@@ -785,8 +785,8 @@ Rony Garcia,DET,-0.41250000000000003
 Ross Detwiler,CIN,-0.7049999999999998
 Ross Stripling,TOR,2.5566666666666666
 Rowan Wick,CHC,-1.5183333333333333
-Ryan Borucki,TOR,-3.4850000000000003
 Ryan Borucki,SEA,-0.3366666666666667
+Ryan Borucki,TOR,-3.4850000000000003
 Ryan Brasier,BOS,-2.225
 Ryan Burr,CHW,-1.8699999999999999
 Ryan Castellani,OAK,-0.67
@@ -803,8 +803,8 @@ Ryan Weber,NYY,1.3499999999999999
 Ryan Yarbrough,TBR,-1.084
 Ryne Nelson,ARI,5.0
 Ryne Stanek,HOU,2.1666666666666665
-Sam Clay,WSN,-1.485
 Sam Clay,NYM,-0.5
+Sam Clay,WSN,-1.485
 Sam Coonrod,PHI,-2.4400000000000004
 Sam Hentges,CLE,2.165
 Sam Howard,PIT,-1.49
@@ -815,24 +815,24 @@ Sandy Alcantara,MIA,6.881666666666667
 Sandy Leon,CLE,0.96
 Scott Alexander,SFG,4.01
 Scott Barlow,KCR,2.151666666666667
-Scott Effross,NYY,1.665
 Scott Effross,CHC,2.2925
+Scott Effross,NYY,1.665
 Sean Doolittle,WSN,4.4
 Sean Hjelle,SFG,-1.1375000000000002
 Sean Manaea,SDP,-2.8049999999999997
-Sean Newcomb,CHC,-2.05
 Sean Newcomb,- - -,-6.58
+Sean Newcomb,CHC,-2.05
 Sean Poppen,ARI,0.38399999999999995
 Sean Reid-Foley,NYM,-3.75
 Seranthony Dominguez,PHI,1.2866666666666668
-Sergio Romo,TOR,-1.33
 Sergio Romo,SEA,-1.8266666666666669
+Sergio Romo,TOR,-1.33
 Seth Lugo,NYM,0.33166666666666667
 Seth Martinez,HOU,1.5616666666666665
 Shane Baz,TBR,-0.9
 Shane Bieber,CLE,4.456666666666667
-Shane Greene,NYY,-1.51
 Shane Greene,LAD,0.94
+Shane Greene,NYY,-1.51
 Shane McClanahan,TBR,3.896666666666667
 Shaun Anderson,TOR,-1.49
 Shawn Armstrong,MIA,-6.26
@@ -867,12 +867,12 @@ Tayler Saucedo,TOR,-4.31
 Tayler Scott,SDP,-1.925
 Taylor Clarke,KCR,-0.8916666666666669
 Taylor Hearn,TEX,-1.5383333333333333
-Taylor Rogers,SDP,-0.44999999999999996
 Taylor Rogers,MIL,-2.81
+Taylor Rogers,SDP,-0.44999999999999996
 Taylor Widener,ARI,-0.7074999999999999
 Thomas Hatch,TOR,-7.76
-Thomas Szapucki,SFG,0.585
 Thomas Szapucki,NYM,-8.31
+Thomas Szapucki,SFG,0.585
 Tim Hill,SDP,0.7083333333333334
 Tim Mayza,TOR,0.6966666666666667
 Tommy Henry,ARI,-1.8550000000000002
@@ -897,8 +897,8 @@ Trevor Stephan,CLE,0.68
 Trevor Williams,NYM,0.3016666666666668
 Triston McKenzie,CLE,4.31
 Tucker Barnhart,DET,-0.52
-Tucker Davidson,LAA,-5.295
 Tucker Davidson,ATL,-1.36
+Tucker Davidson,LAA,-5.295
 Ty Blach,COL,-0.63
 Tyler Alexander,DET,-2.732
 Tyler Anderson,LAD,4.841666666666666
@@ -906,20 +906,20 @@ Tyler Beede,- - -,-5.55
 Tyler Beede,PIT,-0.12000000000000005
 Tyler Beede,SFG,0.5
 Tyler Clippard,WSN,-0.755
-Tyler Cyr,PHI,-0.9
 Tyler Cyr,OAK,3.11
+Tyler Cyr,PHI,-0.9
 Tyler Danish,BOS,-0.976
 Tyler Duffey,MIN,-1.216
 Tyler Gilbert,ARI,-1.0125
 Tyler Glasnow,TBR,2.3
 Tyler Holton,ARI,0.35750000000000004
 Tyler Kinley,COL,2.69
-Tyler Mahle,CIN,1.2225000000000001
 Tyler Mahle,MIN,-0.10000000000000009
+Tyler Mahle,CIN,1.2225000000000001
 Tyler Matzek,ATL,0.8540000000000001
 Tyler Rogers,SFG,-0.11999999999999982
-Tyler Thornburg,MIN,1.1
 Tyler Thornburg,ATL,-1.25
+Tyler Thornburg,MIN,1.1
 Tyler Wells,BAL,0.376
 Tylor Megill,NYM,-0.57
 Tyson Miller,TEX,-4.73
@@ -934,8 +934,8 @@ Wandy Peralta,NYY,1.5650000000000002
 Whit Merrifield,TOR,-1.53
 Wil Crowe,PIT,-0.35666666666666663
 Wil Myers,SDP,-0.47333333333333333
-Will Smith,HOU,0.9950000000000001
 Will Smith,ATL,-1.5075
+Will Smith,HOU,0.9950000000000001
 Will Vest,DET,-0.0866666666666666
 William Woods,ATL,0.5
 Willians Astudillo,MIA,0.51
@@ -945,15 +945,15 @@ Wyatt Mills,SEA,-0.6299999999999999
 Xzavion Curry,CLE,-0.885
 Yadier Molina,STL,-1.54
 Yency Almonte,LAD,2.456
-Yennier Cano,BAL,-4.49
 Yennier Cano,MIN,-2.0533333333333332
+Yennier Cano,BAL,-4.49
 Yerry De Los Santos,PIT,-1.8074999999999999
 Yerry Rodriguez,TEX,0.47
 Yimi Garcia,TOR,1.04
 Yoan Lopez,NYM,-0.546
 Yohan Ramirez,CLE,-0.04
-Yohan Ramirez,SEA,-2.42
 Yohan Ramirez,PIT,1.81
+Yohan Ramirez,SEA,-2.42
 Yolmer Sanchez,BOS,-0.48
 Yonny Chirinos,TBR,2.77
 Yu Chang,TBR,-2.11

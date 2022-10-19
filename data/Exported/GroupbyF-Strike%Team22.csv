@@ -10,8 +10,8 @@ Aaron Civale,CLE,63.21666666666667
 Aaron Fletcher,PIT,52.6
 Aaron Loup,LAA,57.98333333333334
 Aaron Nola,PHI,70.2
-Aaron Sanchez,WSN,63.65
 Aaron Sanchez,MIN,59.6
+Aaron Sanchez,WSN,63.65
 Adam Cimber,TOR,65.3
 Adam Kolarek,OAK,49.400000000000006
 Adam Oller,OAK,60.23333333333333
@@ -23,9 +23,9 @@ Adrian Houser,MIL,57.86
 Adrian Martinez,OAK,61.48
 Adrian Morejon,SDP,60.6
 Adrian Sampson,CHC,52.160000000000004
+Albert Abreu,- - -,54.1
 Albert Abreu,NYY,53.86666666666667
 Albert Abreu,TEX,53.95
-Albert Abreu,- - -,54.1
 Albert Pujols,STL,42.9
 Alcides Escobar,WSN,50.0
 Alec Mills,CHC,59.75
@@ -38,8 +38,8 @@ Alex Faedo,DET,59.166666666666664
 Alex Lange,DET,54.35
 Alex Vesia,LAD,60.31666666666666
 Alex Wood,SFG,63.279999999999994
-Alex Young,SFG,62.3
 Alex Young,CLE,50.0
+Alex Young,SFG,62.3
 Alexander Wells,BAL,75.0
 Alexis Diaz,CIN,60.0
 Amir Garrett,KCR,58.01666666666667
@@ -88,8 +88,8 @@ Austin Davis,BOS,56.5
 Austin Davis,MIN,40.0
 Austin Gomber,COL,59.78333333333334
 Austin Pruitt,OAK,65.78
-Austin Voth,WSN,62.8
 Austin Voth,BAL,61.25
+Austin Voth,WSN,62.8
 Austin Warren,LAA,55.333333333333336
 Austin Wynns,SFG,37.5
 Bailey Falter,PHI,67.0
@@ -171,16 +171,16 @@ Chris Devenski,ARI,75.0
 Chris Devenski,PHI,78.9
 Chris Ellis,BAL,56.0
 Chris Flexen,SEA,58.699999999999996
-Chris Martin,LAD,84.6
 Chris Martin,CHC,72.0
+Chris Martin,LAD,84.6
 Chris Mazza,TBR,57.1
 Chris Owings,BAL,80.0
 Chris Paddack,MIN,67.2
 Chris Sale,BOS,60.0
 Chris Stratton,PIT,63.925
 Chris Stratton,STL,55.35
-Christian Bethancourt,TBR,85.0
 Christian Bethancourt,OAK,50.0
+Christian Bethancourt,TBR,85.0
 Cionel Perez,BAL,60.866666666666674
 Clarke Schmidt,NYY,56.13333333333333
 Clay Holmes,NYY,54.6
@@ -194,8 +194,8 @@ Cole Ragans,TEX,60.05
 Cole Sands,MIN,56.575
 Cole Sulser,MIA,63.279999999999994
 Cole Waites,SFG,72.0
-Colin Holderman,PIT,60.8
 Colin Holderman,NYM,60.833333333333336
+Colin Holderman,PIT,60.8
 Colin Poche,TBR,54.75
 Collin McHugh,ATL,64.91666666666667
 Collin Snider,KCR,50.7
@@ -233,8 +233,8 @@ Daniel Mengden,KCR,74.6
 Daniel Norris,CHC,54.175
 Daniel Norris,DET,61.8
 Danny Coulombe,MIN,61.25
-Danny Young,SEA,85.0
 Danny Young,ATL,66.7
+Danny Young,SEA,85.0
 Dany Jimenez,OAK,62.85
 Darick Hall,PHI,50.0
 Darin Ruf,NYM,85.7
@@ -248,8 +248,8 @@ David McKay,- - -,60.9
 David Peterson,NYM,51.35
 David Phelps,TOR,60.550000000000004
 David Price,LAD,63.18333333333334
-David Robertson,PHI,63.5
 David Robertson,CHC,67.95
+David Robertson,PHI,63.5
 Davis Martin,CHW,65.92
 Dean Kremer,BAL,65.225
 Dee Strange-Gordon,WSN,50.0
@@ -265,8 +265,8 @@ Diego Castillo,SEA,55.583333333333336
 Diego Castillo (PIT),PIT,28.6
 Dillon Peters,PIT,60.98
 Dillon Tate,BAL,64.53333333333333
-Dinelson Lamet,SDP,66.43333333333334
 Dinelson Lamet,COL,54.4
+Dinelson Lamet,SDP,66.43333333333334
 Domingo Acevedo,OAK,58.550000000000004
 Domingo German,NYY,64.63333333333333
 Domingo Tapia,OAK,51.279999999999994
@@ -370,16 +370,16 @@ Hunter Harvey,WSN,58.475
 Hunter Strickland,CIN,61.13333333333333
 Hyun-Jin Ryu,TOR,59.1
 Ian Anderson,ATL,56.32000000000001
-Ian Gibaut,CLE,50.0
 Ian Gibaut,CIN,55.06666666666666
+Ian Gibaut,CLE,50.0
 Ian Hamilton,MIN,54.5
 Ian Kennedy,ARI,68.73333333333333
 Ildemaro Vargas,WSN,100.0
 J.B. Wendelken,ARI,48.025
 J.P. Feyereisen,TBR,66.63333333333334
 JC Mejia,MIL,56.3
-JP Sears,OAK,64.7
 JP Sears,NYY,63.85
+JP Sears,OAK,64.7
 JT Brubaker,PIT,63.85
 JT Chargois,TBR,75.7
 Jace Peterson,MIL,100.0
@@ -389,21 +389,21 @@ Jackie Bradley Jr.,BOS,42.9
 Jackson Kowar,KCR,55.96666666666667
 Jackson Stephens,ATL,59.083333333333336
 Jackson Tetreault,WSN,60.95
-Jacob Barnes,NYY,75.0
 Jacob Barnes,DET,69.83333333333333
+Jacob Barnes,NYY,75.0
 Jacob deGrom,NYM,69.75
 Jaime Barria,LAA,68.3
 Jake Bird,COL,54.375
 Jake Brentz,KCR,44.7
 Jake Cousins,MIL,58.599999999999994
-Jake Diekman,BOS,57.724999999999994
 Jake Diekman,CHW,66.4
+Jake Diekman,BOS,57.724999999999994
 Jake Fishman,MIA,61.9
 Jake Hager,ARI,79.15
 Jake Lemoine,OAK,63.6
-Jake McGee,WSN,73.3
 Jake McGee,- - -,54.1
 Jake McGee,SFG,59.46666666666667
+Jake McGee,WSN,73.3
 Jake Odorizzi,ATL,48.45
 Jake Odorizzi,HOU,58.06666666666666
 Jake Reed,- - -,65.0
@@ -428,8 +428,8 @@ Jason Adam,TBR,63.78333333333333
 Jason Alexander,MIL,63.7
 Jason Foley,DET,64.13333333333334
 Javier Assad,CHC,56.8
-Javy Guerra,TBR,52.55
 Javy Guerra,- - -,55.3
+Javy Guerra,TBR,52.55
 Jay Jackson,ATL,40.0
 Jeff Brigham,MIA,62.03333333333334
 Jeff Hoffman,CIN,52.8
@@ -438,9 +438,9 @@ Jerad Eickhoff,PIT,63.0
 Jeremiah Estrada,CHC,73.2
 Jeremy Beasley,TOR,67.1
 Jermaine Palacios,MIN,33.3
-Jesse Chavez,LAA,60.0
-Jesse Chavez,ATL,69.675
 Jesse Chavez,- - -,64.3
+Jesse Chavez,ATL,69.675
+Jesse Chavez,LAA,60.0
 Jesus Cruz,ATL,63.2
 Jesus Luzardo,MIA,65.75
 Jesus Tinoco,TEX,62.95
@@ -454,8 +454,8 @@ Jhonathan Diaz,LAA,45.4
 Jhoulys Chacin,COL,58.833333333333336
 Jimmy Herget,LAA,62.2
 Jimmy Lambert,CHW,62.1
-Jimmy Yacabonis,TBR,75.0
 Jimmy Yacabonis,MIA,61.0
+Jimmy Yacabonis,TBR,75.0
 JoJo Romero,STL,65.2
 JoJo Romero,PHI,60.0
 Joan Adon,WSN,55.225
@@ -467,9 +467,9 @@ Joe Musgrove,SDP,64.5
 Joe Ryan,MIN,64.5
 Joe Smith,MIN,67.62
 Joel Kuhnel,CIN,59.260000000000005
-Joel Payamps,OAK,50.0
-Joel Payamps,KCR,53.8
 Joel Payamps,- - -,48.7
+Joel Payamps,KCR,53.8
+Joel Payamps,OAK,50.0
 Joely Rodriguez,NYM,66.25
 Joey Krehbiel,BAL,54.15
 Joey Wentz,DET,57.3
@@ -487,14 +487,14 @@ Jonathan Loaisiga,NYY,60.05999999999999
 Jordan Hicks,STL,60.279999999999994
 Jordan Holloway,MIA,72.7
 Jordan Lyles,BAL,61.36666666666667
-Jordan Montgomery,NYY,67.3
 Jordan Montgomery,STL,62.400000000000006
+Jordan Montgomery,NYY,67.3
 Jordan Romano,TOR,68.64999999999999
 Jordan Sheffield,COL,25.0
 Jordan Weems,WSN,52.825
 Jorge Alcala,MIN,60.0
-Jorge Lopez,MIN,60.75
 Jorge Lopez,BAL,62.775000000000006
+Jorge Lopez,MIN,60.75
 Jose Alvarado,PHI,60.76666666666667
 Jose Alvarez,SFG,45.23333333333333
 Jose Berrios,TOR,66.08333333333333
@@ -505,16 +505,16 @@ Jose Cuas,KCR,55.32000000000001
 Jose Leclerc,TEX,66.825
 Jose Marte,LAA,46.36666666666667
 Jose Quijada,LAA,60.3
-Jose Quintana,STL,62.0
 Jose Quintana,PIT,60.625
+Jose Quintana,STL,62.0
 Jose Ruiz,CHW,56.31666666666666
 Jose Suarez,LAA,62.9
 Jose Urena,COL,57.4
 Jose Urena,MIL,69.4
 Jose Urquidy,HOU,65.38333333333333
 Josh Fleming,TBR,67.05
-Josh Hader,SDP,52.55
 Josh Hader,MIL,54.525
+Josh Hader,SDP,52.55
 Josh Harrison,CHW,63.53333333333333
 Josh Rogers,WSN,53.4
 Josh Sborz,TEX,62.919999999999995
@@ -527,8 +527,8 @@ Jovani Moran,MIN,54.7
 Juan Minaya,MIN,63.699999999999996
 Julian Merryweather,TOR,66.725
 Julio Urias,LAD,65.75
-Junior Fernandez,STL,66.89999999999999
 Junior Fernandez,PIT,50.0
+Junior Fernandez,STL,66.89999999999999
 Justin Bruihl,LAD,61.599999999999994
 Justin Dunn,CIN,58.8
 Justin Grimm,OAK,69.45
@@ -617,8 +617,8 @@ Luke Weaver,ARI,65.7
 Luke Weaver,KCR,53.0
 MacKenzie Gore,SDP,59.675
 Madison Bumgarner,ARI,61.36666666666667
-Manny Banuelos,PIT,65.7
 Manny Banuelos,NYY,65.7
+Manny Banuelos,PIT,65.7
 Manuel Rodriguez,CHC,56.0
 Marco Gonzales,SEA,62.300000000000004
 Marcos Diplan,BAL,38.6
@@ -632,16 +632,16 @@ Mason Thompson,WSN,56.7
 Matt Barnes,BOS,62.75
 Matt Batten,SDP,75.0
 Matt Brash,SEA,58.379999999999995
-Matt Bush,TEX,67.5
 Matt Bush,MIL,59.25
+Matt Bush,TEX,67.5
 Matt Dermody,CHC,57.1
 Matt Foster,CHW,64.11666666666666
 Matt Gage,TOR,56.75
 Matt Koch,SEA,52.6
 Matt Manning,DET,60.1
 Matt Moore,TEX,59.333333333333336
-Matt Peacock,ARI,61.5
 Matt Peacock,KCR,65.75
+Matt Peacock,ARI,61.5
 Matt Reynolds,CIN,88.9
 Matt Strahm,BOS,63.28333333333333
 Matt Swarmer,CHC,47.76666666666667
@@ -650,8 +650,8 @@ Matthew Boyd,SEA,64.2
 Matthew Festa,SEA,58.9
 Matthew Liberatore,STL,55.660000000000004
 Mauricio Llovera,SFG,60.625
-Max Castillo,TOR,62.85
 Max Castillo,KCR,66.15
+Max Castillo,TOR,62.85
 Max Fried,ATL,61.73333333333333
 Max Kranick,PIT,52.6
 Max Meyer,MIA,73.1
@@ -685,8 +685,8 @@ Mike Mayers,LAA,56.625
 Mike Minor,CIN,61.025000000000006
 Miles Mikolas,STL,63.68333333333334
 Mitch Keller,PIT,57.26666666666667
-Mitch White,LAD,55.975
 Mitch White,TOR,65.1
+Mitch White,LAD,55.975
 Mychal Givens,CHC,57.3
 Mychal Givens,NYM,58.25
 Nabil Crismatt,SDP,58.51666666666667
@@ -710,8 +710,8 @@ Nick Wittgren,STL,57.699999999999996
 Nicklaus Snyder,TEX,42.9
 Nicky Lopez,KCR,16.7
 Noah Davis,COL,71.4
-Noah Syndergaard,PHI,68.05000000000001
 Noah Syndergaard,LAA,62.05
+Noah Syndergaard,PHI,68.05000000000001
 Noe Ramirez,ARI,60.67999999999999
 Norge Ruiz,OAK,59.4
 Oliver Ortega,LAA,59.42
@@ -727,8 +727,8 @@ Patrick Corbin,WSN,68.7
 Patrick Murphy,WSN,55.9
 Patrick Sandoval,LAA,57.93333333333334
 Paul Blackburn,OAK,64.12
-Paul Fry,BAL,56.95
 Paul Fry,ARI,28.6
+Paul Fry,BAL,56.95
 Paul Sewald,SEA,62.06666666666666
 Pedro Avila,SDP,50.0
 Pedro Baez,HOU,50.0
@@ -756,9 +756,9 @@ Reese McGuire,BOS,66.7
 Reid Detmers,LAA,59.98333333333333
 Reiss Knehr,SDP,53.025
 Reiver Sanmartin,CIN,60.166666666666664
+Reyes Moronta,- - -,52.8
 Reyes Moronta,ARI,56.9
 Reyes Moronta,LAD,64.575
-Reyes Moronta,- - -,52.8
 Reynaldo Lopez,CHW,61.800000000000004
 Rich Hill,BOS,63.78333333333333
 Richard Bleier,MIA,67.38333333333334
@@ -769,12 +769,12 @@ Rob Zastryzny,LAA,41.7
 Rob Zastryzny,NYM,50.0
 Robbie Erlin,LAD,77.8
 Robbie Ray,SEA,64.35000000000001
-Robert Dugger,CIN,48.55
 Robert Dugger,- - -,50.0
+Robert Dugger,CIN,48.55
 Robert Gsellman,CHC,64.1
-Robert Stephenson,PIT,67.4
-Robert Stephenson,COL,59.45
 Robert Stephenson,- - -,68.9
+Robert Stephenson,COL,59.45
+Robert Stephenson,PIT,67.4
 Robert Suarez,SDP,65.16
 Roenis Elias,SEA,72.3
 Ron Marinaccio,NYY,58.36666666666667
@@ -820,8 +820,8 @@ Scott Effross,NYY,65.15
 Sean Doolittle,WSN,76.5
 Sean Hjelle,SFG,55.475
 Sean Manaea,SDP,63.666666666666664
-Sean Newcomb,CHC,56.1
 Sean Newcomb,- - -,48.6
+Sean Newcomb,CHC,56.1
 Sean Poppen,ARI,59.52
 Sean Reid-Foley,NYM,65.9
 Seranthony Dominguez,PHI,59.68333333333334
@@ -831,12 +831,12 @@ Seth Lugo,NYM,60.81666666666666
 Seth Martinez,HOU,67.41666666666667
 Shane Baz,TBR,58.8
 Shane Bieber,CLE,66.25
-Shane Greene,NYY,60.0
 Shane Greene,LAD,87.5
+Shane Greene,NYY,60.0
 Shane McClanahan,TBR,62.53333333333333
 Shaun Anderson,TOR,85.7
-Shawn Armstrong,TBR,62.92
 Shawn Armstrong,MIA,52.9
+Shawn Armstrong,TBR,62.92
 Shelby Miller,SFG,70.0
 Sheldon Neuse,OAK,47.76666666666667
 Shohei Ohtani,LAA,60.949999999999996
@@ -867,12 +867,12 @@ Tayler Saucedo,TOR,53.3
 Tayler Scott,SDP,55.55
 Taylor Clarke,KCR,69.01666666666667
 Taylor Hearn,TEX,64.5
-Taylor Rogers,SDP,66.95
 Taylor Rogers,MIL,71.95
+Taylor Rogers,SDP,66.95
 Taylor Widener,ARI,64.725
 Thomas Hatch,TOR,76.9
-Thomas Szapucki,SFG,65.05
 Thomas Szapucki,NYM,53.8
+Thomas Szapucki,SFG,65.05
 Tim Hill,SDP,54.23333333333334
 Tim Mayza,TOR,63.93333333333334
 Tommy Henry,ARI,58.7
@@ -897,25 +897,25 @@ Trevor Stephan,CLE,64.28333333333333
 Trevor Williams,NYM,67.88333333333334
 Triston McKenzie,CLE,62.333333333333336
 Tucker Barnhart,DET,60.0
-Tucker Davidson,LAA,50.349999999999994
 Tucker Davidson,ATL,59.2
+Tucker Davidson,LAA,50.349999999999994
 Ty Blach,COL,70.73333333333333
 Tyler Alexander,DET,66.36
 Tyler Anderson,LAD,65.06666666666666
-Tyler Beede,SFG,51.4
 Tyler Beede,- - -,70.3
 Tyler Beede,PIT,53.675
+Tyler Beede,SFG,51.4
 Tyler Clippard,WSN,40.5
-Tyler Cyr,PHI,33.3
 Tyler Cyr,OAK,57.7
+Tyler Cyr,PHI,33.3
 Tyler Danish,BOS,50.32
 Tyler Duffey,MIN,58.55999999999999
 Tyler Gilbert,ARI,56.125
 Tyler Glasnow,TBR,73.1
 Tyler Holton,ARI,66.875
 Tyler Kinley,COL,56.633333333333326
-Tyler Mahle,CIN,61.2
 Tyler Mahle,MIN,55.45
+Tyler Mahle,CIN,61.2
 Tyler Matzek,ATL,55.32000000000001
 Tyler Rogers,SFG,64.93333333333334
 Tyler Thornburg,ATL,57.35
@@ -945,15 +945,15 @@ Wyatt Mills,SEA,48.1
 Xzavion Curry,CLE,57.55
 Yadier Molina,STL,48.55
 Yency Almonte,LAD,63.580000000000005
-Yennier Cano,BAL,66.7
 Yennier Cano,MIN,55.26666666666667
+Yennier Cano,BAL,66.7
 Yerry De Los Santos,PIT,67.65
 Yerry Rodriguez,TEX,75.0
 Yimi Garcia,TOR,61.866666666666674
 Yoan Lopez,NYM,56.839999999999996
-Yohan Ramirez,SEA,55.0
-Yohan Ramirez,PIT,57.75
 Yohan Ramirez,CLE,63.6
+Yohan Ramirez,PIT,57.75
+Yohan Ramirez,SEA,55.0
 Yolmer Sanchez,BOS,83.3
 Yonny Chirinos,TBR,70.0
 Yu Chang,TBR,45.5
