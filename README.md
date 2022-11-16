@@ -1,7 +1,10 @@
 # MLB-players-perfomance-since-team-changed
 
-Now that baseball it’s all over and we can take a break on spending too much time through the season, I wanted to contribute to the baseball community. I am currently working as data scientist consultant in Accenture and since I am not a reporter or involve in media, I do not have much time to work on projects related with baseball. Hence, I took some of my free time to start working on a project.
+This repository consist on a study consisted on examinating the next questions:
 
+1. Study 1 - Does R&D staff size still plays a role in starters and relievers WAR?
+2. Study 2 -  Is there an effect between analytical staff size vs. change in the performance of pitchers?
+2.1 Change of percentage for pitchers signed during the 2021 off-season
+2.2 change of percentage for pitchers traded during the 2022 season
 
-Keywords to look-up
-“Research & Development", “Baseball Operations Analyst”, “Baseball Analytics” or “Baseball Systems”
+The study, metholodgy, and results are described in the following post on Medium.
